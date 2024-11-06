@@ -305,7 +305,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #EXTINF:-1  group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png",TNT 3
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-
 #EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="Premier league" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/liverpoolfctv.png" group-title="Premier league",LIVERPOOL FC TV
 http://dns.nexon.icu:80/0hd8d0chkb/gxo1gyq3g6/416871
 
@@ -389,21 +388,7 @@ https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://i.imgur.com/S4dSUQ7.png" group-title="Digital TV",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
-
-#EXTINF:-1 tvg-chno="31" tvg-id="One31.th" tvg-name="ONE HD" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="Digital TV",ONE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8
-
-#EXTINF:-1 tvg-chno="32" tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title="Digital TV",Thairath TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8
-
-#EXTINF:-1 tvg-chno="33" tvg-id="Channel3.th" tvg-name="CH3 HD" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Digital TV",CH3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
-
-#EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="Digital TV",Amarin TV
-#EXTVLCOPT:http-referrer=https://www.amarintv.com/
+ttp-referrer=https://www.amarintv.com/
 
 ########÷÷
 
