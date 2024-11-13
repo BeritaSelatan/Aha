@@ -1,12 +1,15 @@
 #EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,http://poid0020.trueddns.com:54337/guide.xml" refresh="3600" 
 
-# Join Telegram Group: https://t.me/iptvth
+# Home tv.2.0
 # =======================================================
-# Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-10-11 08:55:46 UTC+07 ICT
+# Playlist Name: แอพ ทีวี แชร
+# Last Update: 2024-10-11 08:55:46 UTC+07 ICT
 # =======================================================
 https://raw.githubusercontent.com/BeritaSelatan/Th/refs/heads/main/Digital%2067
 ..........................................................................................................................
+
+
+
 Digital#############
 
 #EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="ThaiPBS.th" tvg-name="TPBS" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",TPBS
@@ -4454,24 +4457,6 @@ https://edge6a.v2h-cdn.com/3hd/3hd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://static.amarintv.com/assets/images/logo_10year.png",Amarin TV HD (10 Years Anniversary)
 https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",CH7 HD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-
-#EXTINF:-1 tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
-https://edge6a.v2h-cdn.com/pptv/pptv.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="http://www.cablechannel37.com/upload/logo_img/logo-650ed98a515a3.png",Cable Channel 37HD
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PoliceTV.th" tvg-logo="https://i.imgur.com/GhboFGt.png" group-title="News",Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DOPAChannel.th" tvg-logo="https://imgur.com/Z9vxti4.png" group-title="News",DOPA Channel
-http://dopachannel.truegse.com/live/dopatv03.m3u8
-
-#EXTINF:-1 tvg-id="13 สยามไทย.th" tvg-name="13 สยามไทย" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8FUxVt-Gy35RV7aFldhxxEW07EMVA3B7RYA&usqp=CAU",13 สยามไทย
-https://live.x2.co.th/live/13livetv-th.m3u8
-
 #EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="News" tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/H_BoxedWhiteBorder_1250.png",ABC News LIVE
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
@@ -5121,12 +5106,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="ShareExt@PREMIUM✓SPORTS", Fifa+ 
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 1
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", Now PremierSports 2
@@ -5157,9 +5136,6 @@ http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425325.ts
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425324.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SHAREEXT@NOW||HUB~SPORTS", NowSports 7
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425323.ts
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",PSJ TV
