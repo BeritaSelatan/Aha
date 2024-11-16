@@ -12,6 +12,10 @@ https://raw.githubusercontent.com/BeritaSelatan/Th/refs/heads/main/Digital%2067
 
 Digital#############
 
+#EXTINF:-1 tvg-chno="N" ch-number="N" tvg-id="N" tvg-name="N" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",N
+https://sparkforge.store/live/box/chunks.m3u8?bongls.com 
+
+
 #EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="ThaiPBS.th" tvg-name="TPBS" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",TPBS
 https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
 
