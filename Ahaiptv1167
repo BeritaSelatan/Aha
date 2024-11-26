@@ -286,12 +286,6 @@ https://cdnsv1.bunnycdncloud.com/dooball2you/nbatv/playlist.m3u8
 https://cdnsv1.bunnycdncloud.com/dooball2you/golf/playlist.m3u8
 
 
-
-
-
-
-
-
 ######
 
 #EXTINF:-1 tvg-chno="20" ch-number="20" tvg-id="Happy TV.th" tvg-name="Happy TV" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/69_y_MyWXtrNvkIiE1xegYZ8L9FwOBqs63V5U.png",Happy TV
@@ -636,36 +630,32 @@ https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
 
 ########### LOKAL DAERAH ########
 
-#EXTINF:-1 tvg-id="AntaraTV.MACAN" tvg-name="AntaraTV.MACAN" group-title="LOKAL DAERAH" tvg-logo="https://cdn.macan.tv/img/antaratv.jpg", ANTARA
-https://nonton.site:8443/live/ekos/748344x/32586.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="LOKAL DAERAH", BANDUNG TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-EXTINF:-1 tvg-id="BaliTV.MACAN" tvg-name="BaliTV.MACAN" group-title="LOKAL DAERAH" tvg-logo="https://cdn.macan.tv/img/balitv.png", BALI TV
+#EXTINF:-1 tvg-id="BaliTV.MACAN" tvg-name="BaliTV.MACAN" group-title="LOKAL DAERAH" tvg-logo="https://cdn.macan.tv/img/balitv.png", BALI TV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197962
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/vvyB9QG.png" group-title="LOKAL DAERAH", BALIKPAPAN TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vvyB9QG.png" group-title="LOKAL DAERAH", BALIKPAPAN TV
 http://122.248.43.138:1935/ch10/myStream/chunklist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/u1nCcBb.png" group-title="LOKAL DAERAH", BANJAR TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1nCcBb.png" group-title="LOKAL DAERAH", BANJAR TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logobantentv.png" group-title="LOKAL DAERAH", BANTEN TV
 https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w1559299828.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/Lhupa1J.png" group-title="LOKAL DAERAH", BATAM TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lhupa1J.png" group-title="LOKAL DAERAH", BATAM TV
 http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
 http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_BBS_TV_2018.png" group-title="LOKAL DAERAH", BBS TV
-http://103.119.54.246:8080/hls/bbstv.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/ixY9LmM.png" group-title="LOKAL DAERAH", BETV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ixY9LmM.png" group-title="LOKAL DAERAH", BETV
 https://h1.intechmedia.net/intech/ch58.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/NXQvFTv.png" group-title="LOKAL DAERAH", BMS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXQvFTv.png" group-title="LOKAL DAERAH", BMS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Duta_TV.jpg" group-title="LOKAL DAERAH", Duta TV
