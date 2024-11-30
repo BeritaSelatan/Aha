@@ -69,7 +69,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
 #EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="Mono 29.th" tvg-name="MONO"  tvg-logo="https://i.postimg.cc/XqHD95rL/MOno.jpg"group-title="DTV" ,MONO
-https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
 
 #EXTINF:-1 tvg-chno="24" ch-number="24" tvg-id="True4U.th" tvg-name="TRUE24"  tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/125_y_9yqQrmCd6GNcgesAxhFnKWpwRaUiODEu.png"group-title="DTV" ,TRUE24
 https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
@@ -79,7 +79,7 @@ https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE31 HD.th" tvg-name="ONE"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png"group-title="DTV" ,ONE
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
-#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE31 HD.th" tvg-name="ONE"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png"group-title="DTV" ,ONE2
+#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE31 2 HD.th" tvg-name="ONE"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png"group-title="DTV" ,ONE2
 http://45.154.24.21:80/play/Le2pKCW9lskp5UzaiHeHd7HybXKbemzRDM5dE5NUEfg/m3u8
 
 
