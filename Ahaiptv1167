@@ -293,7 +293,7 @@ https://cdnsv1.bunnycdncloud.com/dooball2you/nbatv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://cdnsv1.bunnycdncloud.com/dooball2you/golf/playlist.m3u8 
 
-....................................................................................................................................
+.SKY SPORT...................................................................................................................................
 
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 4K HEVC H265" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%2024%20Full%20HD.png" group-title="SKY SPORT [ S ]",SKY SPORT 24 4K HEVC H265
 http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/6628.ts
@@ -438,12 +438,7 @@ http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38715.ts
 
 
 
-
-
-
-
 .....................................................................................................................................
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Premier League Tv Optus" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/premier-league.png" group-title="UK Football- Premier League (Events Only)",Premier League Tv Optus
@@ -1736,8 +1731,6 @@ http://45.154.24.21:80/play/Le2pKCW9lskp5UzaiHeHd7HybXKbemzRDM5dE5NUEfg/m3u8
 #EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE31 HD.th" tvg-name="ONE"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png"group-title="DTV",ONE
 https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
 
-
-
 #EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="WORKPOINT"  tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-workpoint.png"group-title="DTV" ,WORKPOINT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1764,10 +1757,6 @@ https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7" ch-number="7"  tvg-name="TSPORT"  tvg-logo="https://i.postimg.cc/q7FXrdNm/TS.jpg"group-title="DTV",TSPORT
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-chno="216" ch-number="7"  tvg-name="SIAM NEWS"  tvg-logo="https://www.i-pic.info/i/urY0361032.png"group-title="DTV",SIAM NEWS
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
@@ -2082,8 +2071,6 @@ EXTINF:-1 tvg-logo="https://i.ibb.co.com/FgcSqYZ/Smart-Select-20230610-162016-Pi
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
 http://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Y26Xw3f/ficom-logo-tv.jpg" group-title="RCTI+", FICOM CHANNEL
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/5L11G4n/CNN.jpg" group-title="RCTI+", CNN INDONESIA
 http://nonton.wap.sh/id/016.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -2123,32 +2110,6 @@ https://link.zozotv.xyz:443/mubaen/k895427/19
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LkkzGjh/VOA.jpg" group-title="RCTI+", VOA
 https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NtNxV9Z/Disney-Channel.jpg" group-title="RCTI++", DISNEY CHANNEL
-http://212.102.60.231/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2303
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/192985
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57183.m3u8
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/60909
-https://iptv.cinehub.wf/mono/ddy1.mizhls.ru/ddy1/premium312/tracks-v1a1/mono.m3u8
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=396314&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YQL8SRw/Disney-XD.jpg" group-title="RCTI+", DISNEY XD
-http://212.102.60.231/DISNEY_XD/tracks-v1a1/mono.m3u8
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6395
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57232.m3u8
-https://iptv.cinehub.wf/mono/ddy1.mizhls.ru/ddy1/premium314/tracks-v1a1/mono.m3u8
-http://iptvtree.net:8080/F26646/f950f250/276564
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/276564
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KV0mJw0/Disney-Jr.jpg" group-title="RCTI+", DISNEY JUNIOR
-http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8608
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#https://iptv.cinehub.wf/mono/ddy5.mizhls.ru/ddy5/premium652/tracks-v1a1/mono.m3u8
-#http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
-#http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&extension=m3u8
-
 
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TransTV.MACAN" group-title="RCTI+" tvg-logo="https://cdn.macan.tv/img/transtv.png", TRANS TV
 https://cdn09jtedge.indihometv.com/joss/133/transtv/index.m3u8
