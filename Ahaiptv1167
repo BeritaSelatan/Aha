@@ -395,46 +395,6 @@ http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/128.ts
 http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/127.ts
 #EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="SKY EUROSPORT 2 HD +1" tvg-logo="http://alibaba.gotoplucky.com:23000/images/f16a04c2a68b1105b78962ec38fbca79.png" group-title="SKY SPORT [ S ]",SKY EUROSPORT 2 HD +1
 http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/5574.ts
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="[S+] SKY SPORT 24 FULL HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%2024%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT 24 FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38696.ts
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="[S+] SKY SPORT 24 HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%2024%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT 24 HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38697.ts
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="[S+] SKY SPORT NBA FULL HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20NBA%20FHD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT NBA FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38698.ts
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="[S+] SKY SPORT NBA HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20NBA%20FHD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT NBA HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38699.ts
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="[S+] SKY SPORT UNO FULL HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%201%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT UNO FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38700.ts
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="[S+] SKY SPORT UNO HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%201%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT UNO HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38701.ts
-#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="[S+] SKY SPORT MAX FULL HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20FootBall%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT MAX FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38702.ts
-#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="[S+] SKY SPORT MAX HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20FootBall%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT MAX HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38703.ts
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="[S+] SKY SPORT ARENA FULL HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20Arena%20FHD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT ARENA FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38704.ts
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="[S+] SKY SPORT ARENA HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20Arena%20FHD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT ARENA HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38705.ts
-#EXTINF:-1 tvg-id="SkySportCollection.it" tvg-name="[S+] SKY SPORT TENNIS FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Sky_Sport_Collection_-_Logo_2019.svg.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT TENNIS FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38706.ts
-#EXTINF:-1 tvg-id="SkySportCollection.it" tvg-name="[S+] SKY SPORT TENNIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Sky_Sport_Collection_-_Logo_2019.svg.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT TENNIS HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38707.ts
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="[S+] SKY SPORT F1 FULL HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20F1%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT F1 FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38708.ts
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="[S+] SKY SPORT F1 HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20F1%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT F1 HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38709.ts
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="[S+] SKY SPORT MOTOGP FULL HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20MotoGP%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT MOTOGP FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38710.ts
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="[S+] SKY SPORT MOTOGP HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Sky%20Sport%20MotoGP%20Full%20HD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY SPORT MOTOGP HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38711.ts
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="[S+] SKY EUROSPORT 1 FULL HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Eurosport%201%20FHD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY EUROSPORT 1 FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38712.ts
-#EXTINF:-1 tvg-id="Eurosport 1 FHD" tvg-name="[S+] SKY EUROSPORT 1 HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Eurosport%201%20FHD.png" group-title="SKY SPORT [ S+ ]",[S+] SKY EUROSPORT 1 HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38713.ts
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="[S+] SKY EUROSPORT 2 FULL HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Eurosport%202.png" group-title="SKY SPORT [ S+ ]",[S+] SKY EUROSPORT 2 FULL HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38714.ts
-#EXTINF:-1 tvg-id="Eurosport 2 FHD" tvg-name="[S+] SKY EUROSPORT 2 HD" tvg-logo="http://alibaba.gotoplucky.com:23000/Loghi/Eurosport%202.png" group-title="SKY SPORT [ S+ ]",[S+] SKY EUROSPORT 2 HD
-http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/38715.ts
 
 
 
