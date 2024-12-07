@@ -78,6 +78,10 @@ http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE31 HD.th" tvg-name="ONE"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png"group-title="Dtv ipThai",ONE
 http://45.154.24.21:80/play/Le2pKCW9lskp5UzaiHeHd7HybXKbemzRDM5dE5NUEfg/m3u8
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-gmmone.png"group-title="Dtv ipThai",ONE HD 31
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="WORKPOINT"  tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-workpoint.png"group-title="Dtv ipThai",WORKPOINT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
