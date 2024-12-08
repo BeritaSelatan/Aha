@@ -177,6 +177,26 @@ https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-chno="213" ch-number="108"  tvg-name="RT News"  tvg-logo="https://i.imgur.com/QY4B8Hg.png"group-title="Dtv ipThai", RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="SPORT",True Premier Football Hd1 
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="SPORT",True Premier Football Hd2 
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="SPORT",True Premier Football Hd3
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="SPORT",True Premier Football Hd4 
+https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="SPORT",True Premier Football Hd5 
+https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg" group-title="Dtv ipThai" , True Premier Football HD1 (TPF1)
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://cdnsv1.bunnycdncloud.com/dooball2you/tpf1/playlist.m3u8
@@ -706,7 +726,7 @@ http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/425332
 #EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 8" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_8_logo_stack_rgb.png" group-title="SPORT",NZ 8 jmrk
 http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/560114
 
-.................................................................................................................................
+...True..............................................................................................................................
 
 
 
