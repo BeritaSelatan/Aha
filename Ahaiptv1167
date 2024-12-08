@@ -178,19 +178,19 @@ https://hls.rt.com/hls/rtdru.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="331" ch-number="331"  tvg-name="True Premier Football 1"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True Premier Football 1 
+#EXTINF:-1 tvg-chno="301" ch-number="331"  tvg-name="True PremierFootball 1"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 1 
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="332" ch-number="332"  tvg-name="True Premier Football 2"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True Premier Football 2 
+#EXTINF:-1 tvg-chno="302" ch-number="332"  tvg-name="True PremierFootball 2"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 2 
 https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
  
-#EXTINF:-1 tvg-chno="333" ch-number="333"  tvg-name="True Premier Football 3"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True Premier Football 3
+#EXTINF:-1 tvg-chno="303" ch-number="333"  tvg-name="True PremierFootball 3"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 3
 https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="334" ch-number="334"  tvg-name="True Premier Football 4"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True Premier Football 4 
+#EXTINF:-1 tvg-chno="304" ch-number="334"  tvg-name="True PremierFootball 4"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 4 
 https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="335" ch-number="335"  tvg-name="True Premier Football 5"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True Premier Football 5 
+#EXTINF:-1 tvg-chno="305" ch-number="335"  tvg-name="True PremierFootball 5"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 5 
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 
