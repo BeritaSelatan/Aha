@@ -12,14 +12,14 @@ https://raw.githubusercontent.com/BeritaSelatan/Th/refs/heads/main/Digital%2067
 ########$$$$Dtv ipThai######
 
 
-#EXTINF:-1 tvg-chno="33" ch-number="3" tvg-id="3 HD.th" tvg-name="3 HD"  tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/132_y_4dCbQViIft2z6KSY9mproWPnRExaDgJG.png"group-title="Dtv ipThai",3 HD
+#EXTINF:-1 tvg-chno="33" ch-number="3" tvg-id="3 HD.th" tvg-name="3 HD"  tvg-logo="https://iptv36.vercel.app/logo/ch3.png"group-title="Dtv ipThai",3 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 
-#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="TV5 HD.th" tvg-name="5HD"  tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/118_y_GimRnJkEqLtCh2rUueBlFa9oDpNKsvSc.png"group-title="Dtv ipThai",5HD
+#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="TV5 HD.th" tvg-name="5HD"  tvg-logo="https://iptv36.vercel.app/logo/tv5.png"group-title="Dtv ipThai",5HD
 https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="CH7 HD.th" tvg-name="7 HD"  tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/134_y_lPVyKhindFZtxqa3DRp8XN2j5QoGfkeL.png"group-title="Dtv ipThai",7 HD
@@ -500,7 +500,7 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/100774
 #EXTINF:-1 tvg-id="Sky Sports Premier League HD" tvg-name="Sky Sports Premier League" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/sky-sports-premier-league-uk.png" group-title="UK Sports",Sky Sports Premier League
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/100773
 
-...................................................................................................................................
+......Bein Sports.............................................................................................................................
 
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono" tvg-name="beIN Sports 1" tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Bein Sports",beIN Sports 1
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/108591
@@ -568,7 +568,7 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/108743
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/108744
 
 
-.....................................................................................................................................
+........EPL",EPL-1.............................................................................................................................
 
 
 
@@ -806,7 +806,7 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:83:6F:C0&stream=79473&ext
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="SPORT",SKY EPL UK
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:83:6F:C0&stream=918986&extension=ts&play_token=cdcrNlb0QB
 
-.....................................................................................................................................
+......Thai Free TV...............................................................................................................................
 
 
 #EXTINF:-1 tvg-chno="1" tvg-id="iptv36.workpoint" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV
