@@ -806,7 +806,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/mcothd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1695548172.png" group-title="DOOKEELA",MLB
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/mlb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1665106261.png" group-title="DOOKEELA",MUTV
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1665106261.png" grup-title="DOOKEELA",MUTV
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664532126.png" group-title="DOOKEELA",NBA TV
@@ -2755,80 +2755,8 @@ https://cdnsv1.bunnycdncloud.com/dooball2you/arenasport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/arenasport4.jpg" group-title="DTV" ,  ArenaSport4
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://cdnsv1.bunnycdncloud.com/dooball2you/arenasport4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg" group-title="DTV" , SPOTV
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/spotv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv2.jpg" group-title="DTV" , Spotv2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/spotv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-1.jpg" group-title="DTV" , BT Sport1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/btsport1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-2.jpg" group-title="DTV" , BT Sport2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/btsport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-3.jpg" group-title="DTV" , BT Sport3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/btsport3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/motorvision.jpg" group-title="DTV" , Motorvision
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/motorvision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/nbatv.jpg" group-title="DTV" , NBA TV
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/nbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/golf-channel-thailand.jpg" group-title="DTV" , Golf channel thailand
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/golf/playlist.m3u8
-
 
 ######
-
-#EXTINF:-1 tvg-chno="20" ch-number="20" tvg-id="Happy TV.th" tvg-name="Happy TV" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/69_y_MyWXtrNvkIiE1xegYZ8L9FwOBqs63V5U.png",Happy TV
-https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="ไทบ้าน.th" tvg-name="ไทบ้าน" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/35_y_ZmflU6NdehsWPOiwbVEDoRxTX0zC3rMa.png",ไทบ้าน
-https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="26" ch-number="26" tvg-id="MVTV.th" tvg-name="MVTV" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/172_y_atuXbnjTpOPYg4c7FCq3SBQmZKGlHrdv.png",MVTV
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="101" ch-number="101" tvg-id="MV Lao.th" tvg-name="MVLAO" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/33_y_nqRCYpyBg3L8WMfV6hk1zbxKZoEl0ISO.png",MVLAO
-https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="102" ch-number="102" tvg-id="MVM.th" tvg-name="MVM" group-title="DTV" tvg-logo="https://i.postimg.cc/KYRcPvWt/MVM.jpg",MVM
-https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="103" ch-number="103" tvg-id="MVC.th" tvg-name="MVC" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/109_y_SFVBJLZ0zE7bMDYN8Umo9yQHkTtnChs5.png",MVC
-https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="9" ch-number="9" tvg-id="MVMall Plus.th." tvg-name="MVMall Plus" group-title="DTV" tvg-logo="https://i.postimg.cc/JhZTsjQg/MMplus.jpg",MVMall Plus
-https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย" tvg-name="MVTV ท้องถิ่นไทย" group-title="DTV" tvg-logo="https://i.postimg.cc/XvPVvSQx/MVM.jpg",MVTV ท้องถิ่นไทย
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-id="MVMall Healthy.th" tvg-name="MVMall Healthy" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/36_y_dXKD7lFMvczOB32q4wJ1GjHbLtySYk9R.png",MVMall Healthy
-https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="12" ch-number="12" tvg-id="MVMall ดี๊ดี.th" tvg-name="MVMall ดี๊ดี" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/40_y_9k5RXQiJ1TLVPYZsNoCez3UlADt40whb.png",MVMall ดี๊ดี
-https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="13" ch-number="13" tvg-id="MVMall Home.th" tvg-name="MVMall Home" group-title="DTV" tvg-logo="https://i.postimg.cc/50pMThDf/MVMHome.jpg",MVMall Home
-https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="14" ch-number="14" tvg-id="MVMall Trend.th" tvg-name="MVMall Trend" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/42_y_MEQW4wbyedpLSGACI86uoJ7cDisaqYhK.jpg",MVMall Trend
-https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="15" ch-number="15" tvg-id="MVMall Living.th" tvg-name="MVMall Living" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/171_y_6VgPnhr2tLUak5d4QcpNiJWTMGuwevKB.jpg",MVMall Living
-https://edge2z.v2h-cdn.com/ttd14/ttd14.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="17" ch-number="17" tvg-id="MVMall Family.th" tvg-name="MVMall Family" group-title="DTV" tvg-logo="https://i.postimg.cc/Vv7HW1pb/MVMall.jpg",MVMall Family
-https://edge6a.v2h-cdn.com/mvmall_ttd12/mvmall_ttd12.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="19" ch-number="19" tvg-id="MVMall Best.th" tvg-name="MVMall Best" group-title="DTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/113_y_O7DG9m528AeKzPprxMY1ZICcjoaifE4S.jpg",MVMall Best
-https://edge6a.v2h-cdn.com/mvmall2/mvmall2.stream/playlist.m3u8
-
-
 
 
 
@@ -6707,11 +6635,9 @@ https://ctrl.laotv.la/live/VTE9/index.m3u8
 
 
 
-Digitalไทย
-
-
-
 malay
+
+
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="มาเลย",RTM TV 1 [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="มาเลย",RTM TV 2 [Geo-blocked]
@@ -7342,22 +7268,9 @@ https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 
 
 
+##$$$$
 
 
-
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png" group-title="Premier league",True Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com:443/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png" group-title="Premier league",True Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png" group-title="Premier league",True Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png" group-title="Premier league",True Premier Football HD 2
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
- 
 ######### ดิจิตอล
 
 
@@ -10764,10 +10677,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 
 #EXTINF:-1 group-title="SHAREEXT@MPD~INDIHOME"  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
-
-#EXTINF:-1 group-title="SHAREEXT@MPD~INDIHOME"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK[INDIHOME]
+#KODIPROP:inputstream.adaptive.⁹~INDIHOME"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
@@ -10808,8 +10718,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
+#####epl###
 
-
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499665.png" group-title="EPL",True Premier Football 1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499673.png" group-title="EPL",True Premier Football 2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499681.png" group-title="EPL",True Premier Football 3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499692.png" group-title="EPL",True Premier Football 4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499700.png" group-title="EPL",True Premier Football 5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
 
 
 
@@ -15383,69 +15308,8 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="SHAREEXT@THAiLandTv",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/nbt.png",NBT
-https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/thaipbs.png",Thai PBS
-https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/altv.png",ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tv5.png",TV5HD
-https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/NNxzCPk.png",ASTV News 1
-http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tsports.png",T Sports 7
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tptv.png",TPTV
-https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/8hYQIxS.png",NBT 11 Central
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://imgur.com/XTFVUkP.png",NBT 11 North
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://imgur.com/4kwV5Sy.png",NBT 11 Northeast
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://imgur.com/4K22fqQ.png",NBT 11 South
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/S9SQm3Y.png",Channel 8 (1080p)
-http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tnn16.png",TNN16
-https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/jkn18.png",JKN 18
-https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://dl.dropbox.com/s/wgd3zgpi68gasbr/coolchannel.png?dl=0",Cool Channel
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/true4u.png",True4U
-https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/gmm25.png",GMM 25
-https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/GhboFGt.png",Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/ch8.png",CH8
-https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/mono29.png",MONO29
-https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/mcot.png",MCOT HD
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/topnews.png",Top News
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://i.imgur.com/uOfb3y1.png" ,Thai Chaiyo
-https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
-#EXTINF:-1 group-title="SHAREEXT@THAiLandTv" tvg-logo="https://iptv36.my.to/logo/tvb.png",TVB Thai
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",News1
-http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",WhiteChannel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",Thai PBS 3
-https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",Yateem TV (New!)
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",Thai PBS 3 HD
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv",CNN indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
+
 
 
 
