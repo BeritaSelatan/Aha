@@ -7076,85 +7076,6 @@ http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 .....................................................................................................................................
-
-#EXTINF:-1 tvg-id="NBT 2 HD.th" tvg-id="NBT.th" tvg-name="NBT 2 HD" group-title="Digital TV" tvg-logo="https://th.bing.com/th/id/OIP.HYBjWvc3P1-3gqCDhKCOuwAAAA?rs=1&pid=ImgDetMain",NBT HD
-https://edge6a.v2h-cdn.com/nbt/nbt.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TPBS.th" tvg-id="ThaiPBS.th" tvg-name="TPBS" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0014.png",THAIPBS HD
-https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ALTV4.th" tvg-id="ALTV.th" tvg-name="ALTV4" group-title="Digital TV" tvg-logo="https://www.altv.tv/images/assets/logo/altv4-logo.png",ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CH5 HD.th" tvg-id="TV5 HD.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/ch5new.logo.png",TV5 HD
-https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="LiveNow From Fox.us" tvg-name="LiveNow From Fox" group-title="News" tvg-logo="https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2022/12/764/432/LiveNOW_Website_og_image_1280x720.jpg",LiveNow From Fox
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="T-Sports7.th" tvg-id="T Sports 7.th" tvg-name="T-Sports7" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/T-SPorts_7_Final.png",T Sports 7
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Channel 8.th" tvg-name="Channel 8" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/8.jpg",Channel 8
-https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Media TV.th" tvg-name="Media TV" group-title="Movies" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc358130-764d-11eb-9057-2d10fb4d0cf4_original.png",Media TV
-http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Parliament.th" tvg-id="TPTV.th" tvg-name="Parliament" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0048.png",TPTV
-https://edge6a.v2h-cdn.com/tptv/tptv.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="Digital TV",NBT 11 Central
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="NBT11North.th" tvg-logo="https://imgur.com/XTFVUkP.png" group-title="Digital TV",NBT 11 North
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-
-#EXTINF:-1 tvg-id="NBT11NorthEast.th" tvg-logo="https://imgur.com/4kwV5Sy.png" group-title="Digital TV",NBT 11 Northeast
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-
-#EXTINF:-1 tvg-id="NBT11South.th" tvg-logo="https://imgur.com/4K22fqQ.png" group-title="Digital TV",NBT 11 South
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-
-#EXTINF:-1 tvg-id="ATTV.th" tvg-name="ATTV" group-title="Movies" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",ATTV
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNN.th" tvg-name="TNN" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.png",TNN24
-https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TVB Thai.th" tvg-name="TVB Thai" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/TVBThai.png",TVB Thai
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JKN 18.th" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/JKN18.png",JKN 18
-https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Fox Weather.us" tvg-name="Fox Weather" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png",Fox Weather
-https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-
-#EXTINF:-1 tvg-id="Mangkorn.th" tvg-name="Mangkorn" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0159.png",มังกร
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids & Documentary" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png",Boom Anime
-https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nation TV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0021.png",Nation TV
-https://edge6a.v2h-cdn.com/nation/nation.stream/chunklist.m3u8
-
-group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",9MCOT HD
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png",ONE HD
-https://edge6a.v2h-cdn.com/onehd/onehd.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Thairath TV HD.th" tvg-name="Thairath TV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0013_R.png",Thairath TV
-https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="3 HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/LOGO3HD.PNG",3 HD
-https://edge6a.v2h-cdn.com/3hd/3hd.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://static.amarintv.com/assets/images/logo_10year.png",Amarin TV HD (10 Years Anniversary)
-https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/chunklist.m3u8
-
 neww
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="News" tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/H_BoxedWhiteBorder_1250.png",ABC News LIVE
@@ -7190,10 +7111,10 @@ https://edge2z.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RT Channel.th" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 
-#EXTINF:-1 tvg-id="NHK.th" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png",NHK World Japan
+#EXTINF:-1 group-title="News"tvg-id="NHK.th" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="Al Jazeera.th" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/954px-Aljazeera_eng.svg.png",AL Jazeera
+#EXTINF:-1 group-title="News"tvg-id="Al Jazeera.th" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/954px-Aljazeera_eng.svg.png",AL Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfbRTMDSFFXtfN05_l_e1Rh9tHmbgsr2x2A&usqp=CAU",Bloomberg
@@ -7852,6 +7773,7 @@ http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 #EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV~dens
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 
+######SHAREEXT@INDONESIA
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",Champions 1~mpd(ott nav)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7913,7 +7835,7 @@ https://wumbodumbo.serv00.net/red/play.mpd?id=9353&type=dash
 
 
 
-
+########SHAREEXT@India ➾ Sports
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",VISION_SPORTS
 http://shareext@15.235.181.35/live.ts?channelId=132401&uid=14505&deviceMac=00:1A:79:A7:53:75&id=visionsports
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@India ➾ Sports",LIVE_KABADDI
