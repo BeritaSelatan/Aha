@@ -187,9 +187,6 @@ https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="305" ch-number="335"  tvg-name="True PremierFootball 5"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 5 
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
-##### D iptv 
-
-
 #EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg" group-title="Dtv ipThai" , True Premier Football HD1 (TPF1)
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://cdnsv1.bunnycdncloud.com/dooball2you/tpf1/playlist.m3u8
@@ -388,6 +385,81 @@ https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
 #EXTINF:-1 group-title="MalaysiaIptv" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
+
+***INDONESIAIptv***
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIAIptv", TRANS TV
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIAIptv", TRANS 7
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIAIptv", INDOSIAR
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIAIptv", SCTV
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/SXV88k2/rcti.png" group-title="INDONESIAIptv", RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/Nm5sJZr/mnc.png" group-title="INDONESIAIptv", MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://1s1.rctiplus.id/mnctv2023.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/FxSXwG7/gtv.png" group-title="INDONESIAIptv", GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://1s1.rctiplus.id/gtv2023.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/x8LdPCY/Antv.jpg" group-title="INDONESIAIptv", ANTV
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+https://link.zozotv.xyz:443/rozila969/abc12345/51
+https://playlist-coffee.my.id/oxy/antv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+https://playlist-coffee.my.id/oxy/moji.m3u8
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298550
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/zFzJ0qX/TVONE.jpg" group-title="INDONESIAIptv", TVONE
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="ALTERNATIVE", TVRI SPORT
+http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/n63scSD/JAK-TV.jpg" group-title="INDONESIAIptv", JAK TV
+https://playlist-coffee.my.id/oxy/jaktv.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/JktG4cJ/DAAI-TV.jpg" group-title="INDONESIAIptv", DAAI TV
+https://playlist-coffee.my.id/oxy/daaitv.m3u8
+EXTINF: -1 tvg-logo="https://i.ibb.co.com/bKPKFnt/IDX.jpg" group-title="INDONESIAIptv", IDX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="INDONESIAIptv", KOMPAS TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch102.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="INDONESIAIptv", SEA TODAY
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch106.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="INDONESIAIptv", VTV VIVA
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="INDONESIAIptv", ANTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch108.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="INDONESIAIptv", TVONE HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch109.m3u8
+#EXTINF:-1 tvg-logo="https://rushia-thumbor.mediaformasi.com/unsafe/1000x0/content/images/size/w1000/wordpress/2020/07/1594699707-picsay.jpg" group-title="INDONESIAIptv", MAGNA TV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch111.m3u8
+#EXTINF:-1 tvg-logo="https://micms.mediaindonesia.com/storage/app/media/FOTO/Operator/metrotv.jpg" group-title="INDONESIAIptv", METRO TV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch112.m3u8
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="INDONESIAIptv", NET TV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch114.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VYKdrLt/Magna.jpg" group-title="INDONESIAIptv", MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ysDkqnx/Picsart-23-06-13-15-48-09-396.jpg" group-title="INDONESIAIptv", BANDUNG TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -440,6 +512,51 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 http://rr2.dens.tv/s/s14/01.m3u8
 http://210.210.155.37/qwr9ew/s/s14/01.m3u8
+
+<====== Mediacorp Singapore ======================================>
+
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/84/Mediacorp_Channel_8_2023.png",Channel 8
+https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://namwahpai.sg/wp-content/uploads/2021/04/Lark20210405-184740.png",Channel U
+https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria
+https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#EXTINF:-1  group-title="Mediacorp Singapore" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1  group-title="Mediacorp Singapore" tvg-logo="https://i.ibb.co.com/RCS6JWF/cna.png",Channel News asia
+https://tglmp03.akamaized.net/out/v1/43856347987b4
+
+<============================== Brunei ======================================>
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls#EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls#EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls#EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
 
 
@@ -1912,211 +2029,6 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:83:6F:C0&stream=79473&ext
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:83:6F:C0&stream=918986&extension=ts&play_token=cdcrNlb0QB
 
 
-
-
-..PORNBOX....................................................................................................................................
-
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 1" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 1
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/567
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 2" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 2
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/568
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 3" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 3
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/569
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 4" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 4
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/570
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 5" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 5
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/571
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 6" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 6
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/572
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 7" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 7
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/573
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 8" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 8
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/574
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 9" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 9
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/575
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 10" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 10
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/576
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 11" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 11
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/577
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 12" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 12
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/578
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 13" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 13
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/579
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 14" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 14
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/580
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 15" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 15
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/581
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 16" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 16
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/582
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 17" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 17
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/583
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 18" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 18
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/584
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 19" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 19
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/585
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 20" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 20
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/586
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 21" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 21
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/587
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 22" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 22
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/588
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 23" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 23
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/589
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 24" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 24
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/590
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 25" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 25
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/591
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 26" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 26
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/592
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 27" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 27
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/593
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 28" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 28
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/594
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 29" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 29
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/595
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 30" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 30
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/596
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 31" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 31
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/597
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 32" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 32
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/598
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 33" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 33
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/599
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 34" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 34
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/600
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 35" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 35
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/601
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 36" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 36
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/602
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 37" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 37
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/603
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 38" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 38
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/604
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 39" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 39
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/605
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 40" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 40
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/606
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 41" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 41
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/607
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 42" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 42
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/608
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 43" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 43
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/609
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 44" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 44
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/610
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 45" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 45
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/611
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 46" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 46
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/612
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 47" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 47
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/613
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 48" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 48
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/614
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 49" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 49
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/615
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 50" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 50
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/616
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 51" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 51
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/617
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 52" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 52
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/618
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 53" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 53
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/619
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 54" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 54
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/620
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 55" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 55
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/621
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 56" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 56
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/622
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 57" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 57
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/623
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 58" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 58
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/624
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 59" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 59
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/625
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 60" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 60
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/626
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 61" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 61
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/627
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 62" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 62
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/628
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 63" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 63
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/629
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 64" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 64
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/630
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 65" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 65
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/631
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 66" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 66
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/632
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 67" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 67
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/633
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 68" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 68
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/634
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 69" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 69
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/635
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 70" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 70
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/636
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 71" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 71
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/637
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 72" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 72
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/638
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 73" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 73
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/639
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 74" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 74
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/640
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 75" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 75
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/641
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 76" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 76
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/642
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 77" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 77
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/643
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 78" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 78
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/644
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 79" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 79
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/645
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 80" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 80
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/646
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 81" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 81
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/647
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 82" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 82
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/648
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 84" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 84
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/650
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 85" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 85
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/651
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 83" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 83
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/649
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 86" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 86
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/652
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 87" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 87
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/653
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 88" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 88
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/654
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 89" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 89
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/655
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 90" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 90
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/656
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 91" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 91
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/657
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 92" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 92
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/658
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 93" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 93
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/659
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 94" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 94
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/660
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 95" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 95
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/661
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 96" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 96
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/662
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 97" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 97
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/663
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 98" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 98
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/664
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 99" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 99
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/665
-#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 100" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 100
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/666
-
 .....................................................................................................................................
 
 #EXTINF:-1  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" group-title="ShareExt@PREMIUM✓SPORTS",TH:TRUE BEINSPORTS 1
@@ -3235,189 +3147,7 @@ https://bit.ly/3FFkNmF
 EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
 http://208.115.225.174:14165
 
-====================================================================================================
-***INDONESIAIptv***
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIAIptv", TRANS TV
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIAIptv", TRANS 7
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIAIptv", INDOSIAR
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIAIptv", SCTV
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/SXV88k2/rcti.png" group-title="INDONESIAIptv", RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/Nm5sJZr/mnc.png" group-title="INDONESIAIptv", MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#https://1s1.rctiplus.id/mnctv2023.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/FxSXwG7/gtv.png" group-title="INDONESIAIptv", GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#https://1s1.rctiplus.id/gtv2023.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/x8LdPCY/Antv.jpg" group-title="INDONESIAIptv", ANTV
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
-https://link.zozotv.xyz:443/rozila969/abc12345/51
-https://playlist-coffee.my.id/oxy/antv.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-http://210.210.155.37/x6bnqe/s/s41/index.m3u8
-https://playlist-coffee.my.id/oxy/moji.m3u8
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298550
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/zFzJ0qX/TVONE.jpg" group-title="INDONESIAIptv", TVONE
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="ALTERNATIVE", TVRI SPORT
-http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/n63scSD/JAK-TV.jpg" group-title="INDONESIAIptv", JAK TV
-https://playlist-coffee.my.id/oxy/jaktv.m3u8
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/JktG4cJ/DAAI-TV.jpg" group-title="INDONESIAIptv", DAAI TV
-https://playlist-coffee.my.id/oxy/daaitv.m3u8
-EXTINF: -1 tvg-logo="https://i.ibb.co.com/bKPKFnt/IDX.jpg" group-title="INDONESIAIptv", IDX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="INDONESIAIptv", KOMPAS TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch102.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="INDONESIAIptv", SEA TODAY
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch106.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="INDONESIAIptv", VTV VIVA
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="INDONESIAIptv", ANTV HD
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch108.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2011/02/17/105261_logo-tvone_1265_711.jpg" group-title="INDONESIAIptv", TVONE HD
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch109.m3u8
-#EXTINF:-1 tvg-logo="https://rushia-thumbor.mediaformasi.com/unsafe/1000x0/content/images/size/w1000/wordpress/2020/07/1594699707-picsay.jpg" group-title="INDONESIAIptv", MAGNA TV HD
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch111.m3u8
-#EXTINF:-1 tvg-logo="https://micms.mediaindonesia.com/storage/app/media/FOTO/Operator/metrotv.jpg" group-title="INDONESIAIptv", METRO TV HD
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch112.m3u8
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="INDONESIAIptv", NET TV HD
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch114.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VYKdrLt/Magna.jpg" group-title="INDONESIAIptv", MAGNA TV
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ysDkqnx/Picsart-23-06-13-15-48-09-396.jpg" group-title="INDONESIAIptv", BANDUNG TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
-https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FgcSqYZ/Smart-Select-20230610-162016-Picsart.jpg" group-title="INDONESIAIptv", THE INDONESIA CHANNEL
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
-http://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg" group-title="INDONESIAIptv", MOJI
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
-https://playlist-coffee.my.id/oxy/moji.m3u8
-#EXTINF:-1 group-title="INDONESIAIptv" tvg-logo="https://i.ibb.co.com/0tTD3wg/vtv-logo-tv.jpg", VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="INDONESIAIptv", TVRI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
-https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fpct7N1/NTV.jpg" group-title="INDONESIAIptv", NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 group-title="INDONESIAIptv" tvg-logo="https://i.ibb.co.com/YPqdz65/citra-drama-logo-tv.jpg", CITRA DRAMA
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88tMzMS/ALL-PLAY.jpg" group-title="INDONESIAIptv", ALL PLAY
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-#https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/60GZP2d/SERU-CH.jpg" group-title="INDONESIAIptv", SERU CHANNEL
-https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vj69HCV/Alquran-Alkarim.jpg" group-title="INDONESIAIptv", ALQURAN KHAREEM
-https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hH9zNW3/MQTV.jpg" group-title="INDONESIAIptv", MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-http://iptvid.my.id/hmm/mqtv.m3u8
-http://180.211.90.134:8000/play/a08y
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pWRSNxZ/TV9.jpg" group-title="INDONESIAIptv", TV9 NU
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dMcSJZc/RODJA-tv.jpg" group-title="INDONESIAIptv", RODJA TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://rodjatv.com/rodjatv/live.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
-http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
-http://rr2.dens.tv/s/s14/01.m3u8
-http://210.210.155.37/qwr9ew/s/s14/01.m3u8
-
-
-<================================================= Mediacorp Singapore ======================================>
-
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
-https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
-
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/84/Mediacorp_Channel_8_2023.png",Channel 8
-https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
-
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://namwahpai.sg/wp-content/uploads/2021/04/Lark20210405-184740.png",Channel U
-https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
-
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
-
-#EXTINF:-1  group-title="Mediacorp Singapore" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1  group-title="Mediacorp Singapore" tvg-logo="https://i.ibb.co.com/RCS6JWF/cna.png",Channel News asia
-https://tglmp03.akamaized.net/out/v1/43856347987b4
-
-
-
-
-
-
-<============================== Brunei ======================================>
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls#EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls#EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls#EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
-
-
-
-
+========================================================================
 
 <======================== Premium Movies ==========================>
 
@@ -14422,6 +14152,190 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
 
 
+..PORNBOX....................................................................................................................................
+
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 1" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 1
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/567
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 2" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 2
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/568
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 3" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 3
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/569
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 4" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 4
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/570
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 5" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 5
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/571
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 6" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 6
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/572
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 7" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 7
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/573
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 8" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 8
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/574
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 9" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 9
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/575
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 10" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 10
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/576
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 11" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 11
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/577
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 12" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 12
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/578
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 13" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 13
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/579
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 14" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 14
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/580
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 15" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 15
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/581
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 16" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 16
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/582
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 17" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 17
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/583
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 18" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 18
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/584
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 19" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 19
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/585
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 20" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 20
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/586
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 21" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 21
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/587
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 22" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 22
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/588
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 23" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 23
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/589
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 24" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 24
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/590
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 25" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 25
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/591
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 26" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 26
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/592
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 27" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 27
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/593
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 28" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 28
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/594
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 29" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 29
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/595
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 30" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 30
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/596
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 31" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 31
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/597
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 32" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 32
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/598
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 33" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 33
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/599
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 34" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 34
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/600
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 35" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 35
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/601
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 36" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 36
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/602
+
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 74" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 74
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/640
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 75" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 75
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/641
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 76" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 76
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/642
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 77" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 77
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/643
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 78" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 78
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/644
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 79" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 79
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/645
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 80" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 80
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/646
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 81" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 81
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/647
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 82" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 82
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/648
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 84" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 84
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/650
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 85" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 85
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/651
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 83" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 83
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/649
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 86" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 86
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/652
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 87" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 87
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/653
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 88" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 88
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/654
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 89" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 89
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/655
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 90" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 90
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/656
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 91" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 91
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/657
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 92" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 92
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/658
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 93" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 93
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/659
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 94" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 94
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/660
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 95" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 95
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/661
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 96" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 96
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/662
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 97" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 97
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/663
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 98" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 98
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/664
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 99" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 99
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/665
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 100" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 100
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/666
+
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 74" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 74
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/640
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 75" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 75
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/641
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 76" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 76
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/642
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 77" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 77
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/643
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 78" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 78
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/644
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 79" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 79
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/645
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 80" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 80
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/646
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 81" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 81
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/647
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 82" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 82
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/648
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 84" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 84
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/650
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 85" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 85
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/651
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 83" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 83
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/649
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 86" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 86
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/652
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 87" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 87
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/653
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 88" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 88
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/654
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 89" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 89
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/655
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 90" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 90
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/656
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 91" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 91
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/657
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 92" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 92
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/658
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 93" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 93
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/659
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 94" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 94
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/660
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 95" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 95
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/661
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 96" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 96
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/662
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 97" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 97
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/663
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 98" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 98
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/664
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 99" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 99
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/665
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 100" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="PORNOBOX",PORNBOX 100
+http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/666
 
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
