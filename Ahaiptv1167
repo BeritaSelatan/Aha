@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,http://poid0020.trueddns.com:54337/guide.xml" refresh="3600" 
 
-# Alha Home tv.2.3
+# Alha Home tv.2.20
 
 # =======================================================
 # Playlist Name: Alha Selatan
@@ -426,13 +426,13 @@ https://playlist-coffee.my.id/oxy/moji.m3u8
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298550
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/zFzJ0qX/TVONE.jpg" group-title="INDONESIAIptv", TVONE
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="ALTERNATIVE", TVRI SPORT
-http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/n63scSD/JAK-TV.jpg" group-title="INDONESIAIptv", JAK TV
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n63scSD/JAK-TV.jpg" group-title="INDONESIAIptv", JAK TV
 https://playlist-coffee.my.id/oxy/jaktv.m3u8
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/JktG4cJ/DAAI-TV.jpg" group-title="INDONESIAIptv", DAAI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JktG4cJ/DAAI-TV.jpg" group-title="INDONESIAIptv", DAAI TV
 https://playlist-coffee.my.id/oxy/daaitv.m3u8
-EXTINF: -1 tvg-logo="https://i.ibb.co.com/bKPKFnt/IDX.jpg" group-title="INDONESIAIptv", IDX
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/bKPKFnt/IDX.jpg" group-title="INDONESIAIptv", IDX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="INDONESIAIptv", KOMPAS TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -513,25 +513,25 @@ http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
 http://rr2.dens.tv/s/s14/01.m3u8
 http://210.210.155.37/qwr9ew/s/s14/01.m3u8
 
-<====== Mediacorp Singapore ======================================>
 
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
-https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/84/Mediacorp_Channel_8_2023.png",Channel 8
-https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://namwahpai.sg/wp-content/uploads/2021/04/Lark20210405-184740.png",Channel U
-https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
-#EXTINF:-1  group-title="Mediacorp Singapore" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1  group-title="Mediacorp Singapore" tvg-logo="https://i.ibb.co.com/RCS6JWF/cna.png",Channel News asia
-https://tglmp03.akamaized.net/out/v1/43856347987b4
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <============================== Brunei ======================================>
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4693,36 +4693,10 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC28/index.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="มังกร" tvg-name="มังกร" tvg-logo="https://www.i-pic.info/i/w2UI361030.jpg" group-title="Movie",มังกร
 #EXTVLCOPT:http-referrer=https://dooball.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="ATTV" tvg-name="ATTV" tvg-logo="https://www.i-pic.info/i/HcyW361033.jpg" group-title="Movie",ATTV
-#EXTVLCOPT:http-referrer=https://dooball.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://mmvapors.com/wp-content/uploads/2020/04/Thrill-logo.png" group-title="Movie",THRILL
-#EXTVLCOPT:http-referrer=https://dooball.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC26/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="ราม่า CHANNEL" tvg-name="ราม่า CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2EHQN.png" group-title="Movie",ราม่า CHANNEL
-#EXTVLCOPT:http-referrer=https://dooball.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC27/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="HLN" tvg-name="HLN" tvg-logo="https://i0.wp.com/castlemontessori.com/wp-content/uploads/2016/06/hln-logo-color-med.png?ssl=1" group-title="Movie",HLN
-#EXTVLCOPT:http-referrer=https://dooball.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC24/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="B4U MOVIES" tvg-name="B4U MOVIES" tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/B4U-Movies.png" group-title="Movie",B4U MOVIES
-#EXTVLCOPT:http-referrer=https://dooball.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.
 
 
-
-#### Music
+#### Music...
 
 #EXTINF:-1 tvg-id="truemusic.th" tvg-name="TRUE MUSIC" tvg-logo="https://dooball.tv//wp-content/uploads/2019/12/true-music-hd.png" group-title="Music",TrueMusic
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -5565,32 +5539,29 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 tvg-id="TV5MONDE.th" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="News",TV5 Monde Asie
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/KCWX_logo_2024.png",KCWX 2
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cool Channel.th" tvg-name="Cool Channel" group-title="Movies" tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59-768x512.png",Cool Channel
-https://live.cool-channel.com:443/cool/live-720P.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/38_x_AsYJg1i26HkGRt0TjIE4CdhwMq7mconP.jpg",ลิโด้ Channel
-https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/37_x_f74aMjmg5Q6TrVRSivyN9A2BoUpx8dcL.jpg",สยาม Channel
-https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/39_x_B1d8we0g2sxMrXjobnhtZNl9fYKSGOLp.jpg",สกาล่า Channel
-https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="http://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/60/31/1f/60311f70-f70f-e3f8-4735-a23e176be0eb/contsched.igfutmsk.lsr/1024x1024bb.jpg",Ditty TV
-https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",CMC Music
-https://cmc-ono.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D&uid=1he0cenp3-ahib-sl-0gn9-o12eppsod2n/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png",V2BEAT TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO98DR5097WjwXQls_BGjX0VTM7d2JVSPvXi-QKnvrg3UBgW4uJ6D-LXI&s=10",ไทไชโย
-https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 №##№########ShareExt@Relax
