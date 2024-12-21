@@ -186,6 +186,25 @@ https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="305" ch-number="335"  tvg-name="True PremierFootball 5"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 5 
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1671966260.png" group-title="Dtv ipThai",MCOT HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/mcothd/playlist.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/o2-sport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1683394005.png" group-title="Dtv ipThai",one31
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/one31/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499074.png" group-title="Dtv ipThai",PPTV
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/pptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1685812254.png" group-title="Dtv ipThai",ช่อง 3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/ch3hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664574997.png" group-title="Dtv ipThai",ช่อง 5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/ch5hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1688059473.png" group-title="Dtv ipThai",ช่อง 7
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/ch7hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg" group-title="Dtv ipThai" , True Premier Football HD1 (TPF1)
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
@@ -997,6 +1016,7 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/108744
 
 
 .........dokeela###
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720429672.png" group-title="DOOKEELA",3BB Sports 1
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1232,9 +1252,6 @@ https://cdn2.aws-live-streaming.com/lsmscore/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1667413290.png" group-title="DOOKEELA",Match Premier Russia
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/matchpremier/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1671966260.png" group-title="DOOKEELA",MCOT HD
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/mcothd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1695548172.png" group-title="DOOKEELA",MLB
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/mlb/playlist.m3u8
@@ -1258,10 +1275,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/novasport2cz/playlist.m3u8
 https://cdn2.aws-live-streaming.com/lsmscore/o2-fotbal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1699795970.png" group-title="DOOKEELA",O2 TV Sport
 #EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/o2-sport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1683394005.png" group-title="DOOKEELA",one31
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/one31/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1721182604.png" group-title="DOOKEELA",Polsat Sport 1 | Poland
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/polsatsport1/playlist.m3u8
@@ -1274,9 +1288,6 @@ https://cdn2.aws-live-streaming.com/lsmscore/polsatsport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1721584784.png" group-title="DOOKEELA",Polsat Sport Premium 1 | Poland
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/polsatsportpremium1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499074.png" group-title="DOOKEELA",PPTV
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/pptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1695331830.png" group-title="DOOKEELA",PPV1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/ppv1/playlist.m3u8
@@ -1541,12 +1552,6 @@ https://cdn2.aws-live-streaming.com/lsmscore/tv2sportpremium/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1667418649.png" group-title="DOOKEELA",TV 2 Sport Premium 2
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/tv2sportpremium2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719438426.png" group-title="DOOKEELA",TV OKEY | Malaysia
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/tvokey/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1667501442.png" group-title="DOOKEELA",TV3 Sport 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/tv3sport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1695936059.png" group-title="DOOKEELA",TV4 Fotboll (Sweden)
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/tv4fotboll/playlist.m3u8
@@ -1604,15 +1609,6 @@ https://cdn2.aws-live-streaming.com/lsmscore/ziggosportselect/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1665475536.png" group-title="DOOKEELA",Ziggo Sport Voetbal
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/ziggosportvoetbal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1685812254.png" group-title="DOOKEELA",ช่อง 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ch3hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664574997.png" group-title="DOOKEELA",ช่อง 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ch5hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1688059473.png" group-title="DOOKEELA",ช่อง 7
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ch7hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="DOOKEELA",บีอินสปอตส์ 1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein1/playlist.m3u8
