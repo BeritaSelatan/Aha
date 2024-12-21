@@ -899,36 +899,35 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/117463
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 8 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 8 [Events Only]
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/117464
 
-...................................................................................................................................
-.....Bein Sports.............................................................................................................................
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="DOOKEELA",บีอินสปอตส์ 1
+....Bein Sports.............................................................................................................................
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="Bein Sports",บีอินสปอตส์ 1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724346113.png" group-title="DOOKEELA",บีอินสปอตส์ 10
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724346113.png" group-title="Bein Sports",บีอินสปอตส์ 10
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1690843424.png" group-title="DOOKEELA",บีอินสปอตส์ 2
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1690843424.png" group-title="Bein Sports",บีอินสปอตส์ 2
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980670.png" group-title="DOOKEELA",บีอินสปอตส์ 3
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980670.png" group-title="Bein Sports",บีอินสปอตส์ 3
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1692816640.png" group-title="DOOKEELA",บีอินสปอตส์ 4
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1692816640.png" group-title="Bein Sports",บีอินสปอตส์ 4
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1693290376.png" group-title="DOOKEELA",บีอินสปอตส์ 5
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1693290376.png" group-title="Bein Sports",บีอินสปอตส์ 5
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719513.png" group-title="DOOKEELA",บีอินสปอตส์ 6
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719513.png" group-title="Bein Sports",บีอินสปอตส์ 6
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719622.png" group-title="DOOKEELA",บีอินสปอตส์ 7
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719622.png" group-title="Bein Sports",บีอินสปอตส์ 7
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724241278.png" group-title="DOOKEELA",บีอินสปอตส์ 8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724241278.png" group-title="Bein Sports",บีอินสปอตส์ 8
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724241287.png" group-title="DOOKEELA",บีอินสปอตส์ 9
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724241287.png" group-title="Bein Sports",บีอินสปอตส์ 9
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein9/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono" tvg-name="beIN Sports 1" tvg-logo="http://163.172.89.228/~msepg/logos/a-sports/bein-sports2/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Bein Sports",beIN Sports 1
