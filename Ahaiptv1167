@@ -251,10 +251,12 @@ https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-chno="213" ch-number="108"  tvg-name="RT News"  tvg-logo="https://i.imgur.com/QY4B8Hg.png"group-title="Dtv ipThai", RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
+....
 
-#EXTINF:-1 tvg-chno="301" ch-number="331"  tvg-name="True PremierFootball 1"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 1 
-https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
- 
+
+
+#EXTINF:-1 tvg-chno="301" ch-number="331"  tvg-name="True PremierFootball 1"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",Monomax PremierFootball 1 
+https://a2.apple-streams.com:8806/v5/rDRDr3QUyfGaBm6y_krY1Q/1755436476/6cea9e4856c9c8c7f09de33d2955a9ec/D2iVlZfFmEFWSJ364yxpog/1755447156/live/lx-origin/th-monomax04bkp_720/playlist.m3u8
 #EXTINF:-1 tvg-chno="302" ch-number="332"  tvg-name="True PremierFootball 2"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 2 
 https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
  
@@ -288,6 +290,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/ch7hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg" group-title="Dtv ipThai" , True Premier Football HD1 (TPF1)
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
+
 https://cdnsv1.bunnycdncloud.com/dooball2you/tpf1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf2.jpg" group-title="Dtv ipThai" , True Premier Football HD2 (Tpf2)
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
