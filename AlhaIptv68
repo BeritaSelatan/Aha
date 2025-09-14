@@ -5,8 +5,6 @@
 # Last Update: 2024-12-20 08:55:46 UTC+07 ICT
 # =======================================================
 
-
-
 ########################################
 ###ทีวีดิจิตอลไทย###
 ########################################
@@ -104,11 +102,9 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/baanbaantv.png", บ้านบ้านทีวี
 https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
 
-
-
-
-#####monomax#####
-
+########################################
+###MONOMAX###
+########################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
@@ -222,33 +218,22 @@ https://s3x.hellotherepadawan.org:9303/v5/u-K6HaNUku0d1Jf5PNQJyw/1757410695/7ff9
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e108.hellotherepadawan.org/v5/JSBqJ0iahPf2C4hrReyfqQ/1757411779/cbcd5ac14555433b845b8c8784178a94/SEWVUUbBpoNl52iPSy2Jdg/1757422459/live/lx-origin/th-monomax05eng_720/chunks.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 5C
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e101.hellotherepadawan.org/v5/g9UzjldSjeVv6hAdF3XJWQ/1757413996/161f963bf8d70a7c69346a2670f16ea2/fCo_hkAd5yC10QIw7CU7Jg/1757424676/live/dx-origin/dooball66-max05_720/chunks.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 5D
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://s2b-c.hellotherepadawan.org:9301/v5/DkWNzFRdfnqjQ3gr2HMWLw/1757414374/b1496f79bafe79dec1fa0272ca04a1f1/0qKslOweRH8Ma2yIqybFzA/1757425054/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 5E
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la2.hellotherepadawan.org:9309/v5/6CGLvOYBpxd59EiQp48l_g/1757415001/161f963bf8d70a7c69346a2670f16ea2/4cAhBGompmkBtc0lMHo_QA/1757425681/live/lx-origin/th-monomax05eng_720/chunks.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 6
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e102.hellotherepadawan.org/v5/SnjRW_a1FNppXECGMwnlwg/1757409898/cbcd5ac14555433b845b8c8784178a94/eUZQ9HmWSP3QEKnIJ8vIMw/1757420578/live/dx-origin/th-monomax06_720/chunks.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 6A
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -269,21 +254,15 @@ https://e101.hellotherepadawan.org/v5/g9UzjldSjeVv6hAdF3XJWQ/1757413996/161f963b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://s2b-c.hellotherepadawan.org:9301/v5/DkWNzFRdfnqjQ3gr2HMWLw/1757414374/b1496f79bafe79dec1fa0272ca04a1f1/0qKslOweRH8Ma2yIqybFzA/1757425054/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 6E
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la2.hellotherepadawan.org:9309/v5/6CGLvOYBpxd59EiQp48l_g/1757415001/161f963bf8d70a7c69346a2670f16ea2/4cAhBGompmkBtc0lMHo_QA/1757425681/live/lx-origin/th-monomax06eng_720/chunks.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 7
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 7A
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -306,9 +285,10 @@ https://s2b-c.hellotherepadawan.org:9301/v5/DkWNzFRdfnqjQ3gr2HMWLw/1757414374/b1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la2.hellotherepadawan.org:9309/v5/6CGLvOYBpxd59EiQp48l_g/1757415001/161f963bf8d70a7c69346a2670f16ea2/4cAhBGompmkBtc0lMHo_QA/1757425681/live/lx-origin/th-monomax07eng_720/chunks.m3u8
+########################################
+###ช่องกีฬา###
+########################################
 
-
-###### ช่องกีฬา ####
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="ช่องกีฬา",MONOMAX 1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -441,8 +421,6 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=08afa076d6eeec870c46919a18a6738f&chunkHttps=true&tmid=V0048&tpbk=a4BkOaHCE2Fm9EN9&rrt=1755819578&tmod=rfk&rsid=197e7e75-d0d9-4a2f-a949-03637aef7b02&tuid=y0ngRp8wwo03emcFQkGq3YebuVrdgXRHHWRKX%2FvFZhNZUUi85%2BT09Wa01ddbk1LAK9QTLYxWNqIVgz3ZzybbJRY9TcqKK0xen7ulLJP9984AU%3D&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503db0itahl&origin=anevia&tfa=f0-fc&tttl=1755905949 
-
-
 
 #EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="Digital TV", 3HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
