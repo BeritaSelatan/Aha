@@ -1672,35 +1672,9 @@ https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Outdoor.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/FKvcMsMd/IMG-2503.png", Outdoor America 
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Outdoor.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/Nj62kvKg/IMG-2505.png", Outdoor Channel 
-https://fl5.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.eu" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/s2t8JsKx/IMG-2006.png", Travelxp
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gusto.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/jqPth0Tk/IMG-2599.png", Gusto TV
-https://amg01077-gustoworldwidem-gustotvnz-samsungnz-3fu5q.amagi.tv/ts-eu-w1-n2/playlist/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tastemade.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/1t8HXPZK/IMG-2660.png", Tastemade
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cookingpanda.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/63wmm6nc/IMG-2256.png", Cooking Panda 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=476
-
-#EXTINF:-1 tvg-id="Newid.kr" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/CK16bGn1/IMG-2188.png", KFOOD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=426
-
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/y8ZtfvK6/IMG-2509.png", à¸ªà¸¸à¸§à¸£à¸£à¸“à¸ à¸¹à¸¡à¸´ 
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/90srqGHg/IMG-2569.png", SBT TV 
-http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/fLqghbYf/IMG-2589.png", SBB TV
-https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/QNp0bSyq/IMG-2591.png", à¸šà¸¸à¸à¸™à¸´à¸¢à¸¡à¸—à¸µà¸§à¸µ
-https://live.x2.co.th/live/bntv.m3u8
 
 #EXTINF:-1 tvg-id="Brian.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/SQ72qGNx/IMG-2914.png", Brian TV 
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
@@ -1711,25 +1685,16 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/pXYqWmZY/IMG-2378.png", Good Idea TV
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/vHFdNPh2/IMG-2579.png", Nat TV
-https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/xCKx5Z6S/IMG-2959.png", Farmtv
-https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/mrNtdYc0/IMG-1885.png", à¸šà¹‰à¸²à¸™à¸šà¹‰à¸²à¸™à¸—à¸µà¸§à¸µ
-https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
-
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/YC80kygb/IMG-2687.png", à¹„à¸—à¸šà¹‰à¸²à¸™à¸—à¸µà¸§à¸µ
+#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/YC80kygb/IMG-2687.png", THAI HOME
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/v8z5TKKC/IMG-2593.png", à¸­à¸µà¸ªà¸²à¸™à¸—à¸µà¸§à¸µ
+#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/v8z5TKKC/IMG-2593.png", I SAN
 https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/SNpVPq80/IMG-2710.png", MVTV à¸—à¹‰à¸­à¸‡à¸–à¸´à¹ˆà¸™à¹„à¸—à¸¢
+#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/SNpVPq80/IMG-2710.png", MVTV THAI
 https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/MGHM4rTj/IMG-2560.png", à¸¥à¸±à¹ˆà¸™à¸—à¸¸à¹ˆà¸‡à¸—à¸µà¸§à¸µ
+#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/MGHM4rTj/IMG-2560.png", LUNG TV
 https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w1965870389.m3u8
 
 #EXTINF:-1 tvg-id="Cable.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/d1k9hNx8/IMG-2059.png", LS TV
@@ -1744,23 +1709,14 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/jj3K9r1L/IMG-2125.png", Uniquely TV
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/RCHf48T7/IMG-2558.png", à¸¥à¸¹à¸à¸—à¸¸à¹ˆà¸‡à¸—à¸µà¸§à¸µ
-https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/gkFPkfTH/IMG-2066.png", Active  FM 99
 https://fm99-live-cdn.mcot.net/RadioLive/smil:fm99_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/xj6V8Qj4/IMG-2670.png", MCOT News FM100.5
 https://fm1005-live-cdn.mcot.net/tencentradiolive/smil:fm1005_live_tencent.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png", à¸¡à¸§à¸¥à¸Šà¸™à¸—à¸µà¸§à¸µ
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-
 #EXTINF:-1 tvg-id="Cable.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/5tGmZMSZ/IMG-2513.png", Hmongstar
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FW.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/0jp5Bhwx/IMG-2583.png", à¸–à¸´à¹ˆà¸™à¹ƒà¸•à¹‰
-https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WhiteChannel.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/L6Xmkswy/IMG-2247.png", White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
@@ -1768,13 +1724,13 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/C5VDwGcY/IMG-2370.png", Yateem TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVMuslimThailand.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/L5yLnqxn/IMG-2581.png", à¸—à¸µà¸§à¸µà¸¡à¸¸à¸ªà¸¥à¸´à¸¡
+#EXTINF:-1 tvg-id="TVMuslimThailand.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/L5yLnqxn/IMG-2581.png", TV Msslim
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/NMYy8Cd3/IMG-1851.png", à¸—à¸µà¸§à¸µà¸£à¸±à¸à¸ªà¸ à¸²
+#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/NMYy8Cd3/IMG-1851.png", TPtv thai
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/xCf0DWj3/IMG-2519.png", à¸à¸£à¸¡à¸à¸²à¸£à¸›à¸à¸„à¸£à¸­à¸‡
+#EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/xCf0DWj3/IMG-2519.png", DOPA CHANNEL 
 http://dopachannel.truegse.com/live/dopatv03.m3u8
 
 #EXTINF:-1 tvg-id="Policetv.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/fbzNzJSG/IMG-2597.png", Police TV
@@ -1836,9 +1792,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/ZRX02B3m/IMG-2686.png", Al Jazeera EN
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-
-
 #EXTINF:-1 tvg-id="I312.11221.gracenote.com" tvg-name="Hallmark Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="IPTV.Live",Hallmark Channel
 http://panel.sulu1.cc:2052/travis1/travis1/88740
 #EXTINF:-1 tvg-id="I565.46710.gracenote.com" tvg-name="Hallmark Movies & Mysteries" tvg-logo="http://www.tmsimg.com/assets/s61522_ll_h3_aa.png" group-title="IPTV.Live",Hallmark Movies & Mysteries
@@ -1865,19 +1818,10 @@ http://panel.sulu1.cc:2052/travis1/travis1/88750
 http://panel.sulu1.cc:2052/travis1/travis1/88751
 #EXTINF:-1 tvg-id="I517.10121.gracenote.com" tvg-name="MoreMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="IPTV.Live",MoreMAX
 http://panel.sulu1.cc:2052/travis1/travis1/88752
-#EXTINF:-1 tvg-id="I521.59963.gracenote.com" tvg-name="MovieMax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moviemax-us.png?raw=true" group-title="IPTV.Live",MovieMax
-http://panel.sulu1.cc:2052/travis1/travis1/88753
-#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OuterMax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" group-title="IPTV.Live",OuterMax
-http://panel.sulu1.cc:2052/travis1/travis1/88754
 #EXTINF:-1 tvg-id="ScreenPix.us" tvg-name="ScreenPix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-us.png?raw=true" group-title="IPTV.Live",ScreenPix
 http://panel.sulu1.cc:2052/travis1/travis1/88755
 #EXTINF:-1 tvg-id="ScreenPix.Voices.us" tvg-name="ScreenPix Voices" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-voices-us.png?raw=true" group-title="IPTV.Live",ScreenPix Voices
 http://panel.sulu1.cc:2052/travis1/travis1/88756
 #EXTINF:-1 tvg-id="ScreenPix.Westerns.us" tvg-name="ScreenPix Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-westerns-us.png?raw=true" group-title="IPTV.Live",ScreenPix Westerns
 http://panel.sulu1.cc:2052/travis1/travis1/88757
-
-
-
-
-
 
