@@ -51,8 +51,6 @@ https://live.topnews.co.th/hls/mobile_v1.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/dopa.png",Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/RCHf48T7/IMG-2558.png", ลูกทุ่งทีวี
-https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/zeenung.png", Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/500px-Nation_TV_Logo.svg.png",Nation TV
@@ -91,8 +89,6 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png",Chiangrai Channel
-http://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Siamnews.png",Siamnews
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Thainews.png",Thainews
@@ -104,24 +100,19 @@ https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
 
 
 
-
+### Digital TV ###
 #EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="Digital TV", 3HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
-
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="5HD.th" tvg-name="5HD" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="Digital TV", 5HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
-
-
 #EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD.th" tvg-name="7HD" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png" group-title="Digital TV", 7HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
-
 #EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="ช่อง 8.th" tvg-name="ช่อง 8" tvg-logo="https://media-mvtv.imgix.net/channel/127_y_uhsXzFBxYD6Wq2mpZeIUb4M7RK1ECkn8.png" group-title="Digital TV", ช่อง 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
-
 #EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT.th" tvg-name="MCOT" tvg-logo="https://media-mvtv.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png" group-title="Digital TV", MCOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
@@ -1485,8 +1476,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.uk" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/pLp2cFWX/IMG-2652.png", Tennis Plus 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Foxsports.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/zv9BSgXw/IMG-2104.png", Fox Sports 1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
 
@@ -1694,7 +1683,6 @@ http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/YC80kygb/IMG-2687.png", THAI HOME
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-
 #EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/v8z5TKKC/IMG-2593.png", I SAN
 https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
 
@@ -1751,7 +1739,6 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rchannel.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/qBwcfM7K/IMG-2841.png", R-Channel 
 http://180.180.243.239/streams/3/hls
-
 #EXTINF:-1 tvg-id="Cable.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/rsxqZcsQ/IMG-1891.png", STOU
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
@@ -1769,7 +1756,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-id="CNN.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/hvgm5x6D/IMG-2117.png", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 tvg-id="FOX.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/8zTkSnj4/IMG-2254.png", FOX News
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
@@ -1787,16 +1773,12 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 #EXTINF:-1 tvg-id="BBC.cn" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/Kzv35v22/IMG-1948.png", BBC World News 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
-
 #EXTINF:-1 tvg-id="Bloomberg.cn" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/Rh2397nS/IMG-1947.png", Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-
 #EXTINF:-1 tvg-id="France24.th" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/5t7VKhvW/IMG-2682.png", France 24
 https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
-
 #EXTINF:-1 tvg-id="DW.gr" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/02JnwwPq/IMG-2745.png", DW En
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
 #EXTINF:-1 tvg-id="Aljazeera.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/ZRX02B3m/IMG-2686.png", Al Jazeera EN
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="I312.11221.gracenote.com" tvg-name="Hallmark Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" group-title="IPTV.Live",Hallmark Channel
@@ -1832,7 +1814,7 @@ http://panel.sulu1.cc:2052/travis1/travis1/88756
 #EXTINF:-1 tvg-id="ScreenPix.Westerns.us" tvg-name="ScreenPix Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-westerns-us.png?raw=true" group-title="IPTV.Live",ScreenPix Westerns
 http://panel.sulu1.cc:2052/travis1/travis1/88757
 
-
+##### 3BB ####
 #EXTINF:-0 group-title="ช่อง3BBGIGATV" tvg-id="hbo.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO TH
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1883,17 +1865,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-#EXTINF:-1 group-logo="https://3bbtv.co.th/wp-content/uploads/2020/08/Logo-3BBTV-500x500pix.png" 
-#EXTINF:-1 tvg-id="3BB Sports One.th" tvg-name="3BB Sports One.th" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="ช่อง3BBGIGATV", 3BB Sport One
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="ช่อง3BBGIGATV",Discovery Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
-
 #EXTINF:-1 group-title="ช่อง3BBGIGATV" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVER
 https://github.com/BONDdata/m3u8/raw/refs/heads/main/aisDiscover.m3u8
 
