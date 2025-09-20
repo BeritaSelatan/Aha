@@ -312,6 +312,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 ########################################
 ###MONOMAX###
 ########################################
+
 #EXTINF:-1 tvg-name="Astro Premier league Malay 🇲🇾 Malayu" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="MONOMaX", Premier league Malay 🇲🇾 Malayu
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
@@ -324,6 +325,8 @@ https://e101.hellotherepadawan.org/v5/_nkbywfg-8EZ5xlegK9wCA/1758354109/9963932e
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e102.hellotherepadawan.org/v5/uLMR-v1V07Ek96b4G_hIDw/1758354672/9963932e01f060477029cac81bdedfd1/7ljvsWi2KfFg7OXhM3KYuw/1758365352/live/dx-origin/th-monomax02_720/chunks.m3u8
+#EXTINF:-1 group-title="MONOMaX" tvg-logo="https://api.coollikeice.org/images/png/my-astro-epl2.png",BeinSportHD 1
+https://s2x-c.hellotherepadawan.org:9303/v5/qGf-gbPgPYR-zvyN7ZMShA/1758353859/9963932e01f060477029cac81bdedfd1/V320SGPSPLaFoOSJabtoVA/1758364539/live/vx-origin/my-astro-epl1_720/chunks.m3u8
 
 
 
