@@ -312,11 +312,16 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 ########################################
 ###MONOMAX###
 ########################################
+#EXTINF:-1 tvg-name="AstroArena1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="Gojek : Nation Sport", AstroArena1
+#EXTVLCOPT:http-referrer=https://99dooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
+https://s2x-c.hellotherepadawan.org:9303/v5/qGf-gbPgPYR-zvyN7ZMShA/1758353859/9963932e01f060477029cac81bdedfd1/V320SGPSPLaFoOSJabtoVA/1758364539/live/vx-origin/my-astro-epl1_720/chunks.m3u8
+
+
 #EXTINF:-1 group-title="MONOMaX" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
 https://e103.hellotherepadawan.org/v5/D1Rab8IjrDzSdpZ9x5DXDg/1758205120/bbe0a64cd209cf68de01e300521367da/-uBLQHLwP9zGCkdwnVLY4g/1758215800/live/dx-origin/epl-bein1_720/chunks.m3u8
 #EXTINF:-1 group-title="MONOMaX" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
 https://github.com/BONDdata/m3u8/raw/refs/heads/main/truebein2.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
