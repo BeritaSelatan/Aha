@@ -2790,6 +2790,37 @@ http://panel.sulu1.cc:2052/travis1/travis1/88756
 #EXTINF:-1 tvg-id="ScreenPix.Westerns.us" tvg-name="ScreenPix Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-westerns-us.png?raw=true" group-title="IPTV.Live",ScreenPix Westerns
 http://panel.sulu1.cc:2052/travis1/travis1/88757
 
+
+
+
+#######ช่องข่าวต่างประเทศ##########
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="ช่องข่าวต่างประเทศ",CNN International
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186374&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2014/08/abc-news-logo.jpg" group-title="ช่องข่าวต่างประเทศ",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Global_News.svg" group-title="ช่องข่าวต่างประเทศ",Global News
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png" group-title="ช่องข่าวต่างประเทศ",DW English
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186588&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png" group-title="ช่องข่าวต่างประเทศ",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png" group-title="ช่องข่าวต่างประเทศ",Al Jazeera English
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186378&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAFFJLPngPjCb-HsHDYvLn_2u3NLgkTmldTRSOCyPTvMQKfaBKdeGD1PZGtNpYbBD9JM&usqp=CAU" group-title="ช่องข่าวต่างประเทศ",TRT World
+http://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png" group-title="ช่องข่าวต่างประเทศ",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="ช่องข่าวต่างประเทศ",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1705785346.png" group-title="ช่องข่าวต่างประเทศ",Boomberg News
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png" group-title="ช่องข่าวต่างประเทศ",NHK WORLD-JAPAN
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186490&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715648168.png" group-title="ช่องข่าวต่างประเทศ",SkyNews
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png" group-title="ช่องข่าวต่างประเทศ",Rusia Today
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186585&extension=ts
+
 ##### 3BB ####
 #EXTINF:-0 group-title="ช่อง3BBGIGATV" tvg-id="hbo.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO TH
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
