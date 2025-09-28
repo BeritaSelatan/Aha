@@ -1410,6 +1410,44 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:0 group-title="MalaysiaIptv" ,DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="MalaysiaIptv",RTB Sukmaindera (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="MalaysiaIptv",RTM TV 1 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="MalaysiaIptv",RTM TV 2 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="MalaysiaIptv",Sukan RTM [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="MalaysiaIptv",Rodja TV (720p)
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="MalaysiaIptv",Sakti TV (720p)
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="MalaysiaIptv",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="MalaysiaIptv",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="TVAsia",TV9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="MalaysiaIptv",TV Mu (720p) [Not 24/7]
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="TVRIAceh.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="MalaysiaIptv",TVRI Aceh (720p)
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="TVRIBali.id" tvg-logo="https://i.imgur.com/3N6NDPf.png" group-title="MalaysiaIptv",TVRI Bali (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="MalaysiaIptv",TVRI Bangka Belitung (480p)
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="TVRIBengkulu.id" tvg-logo="https://i.imgur.com/qswy60o.png" group-title="MalaysiaIptv",TVRI Bengkulu (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="MalaysiaIptv",TV Mu (720p) [Not 24/7]
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="MalaysiaIptv",TV9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="RTMASEAN.my" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="MalaysiaIptv",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+
+
 #EXTINF:0 group-title="MalaysiaIptv" ,TRAVEL & TASTE
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 #EXTINF:0 group-title="MalaysiaIptv" ,LAWAK SENTRAL
@@ -1468,173 +1506,39 @@ http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 #EXTINF:0 group-title="MOVIE" ,ROCK ACTION
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
-#EXTINF:0 group-title="KOREAN CHANNEL" tvg-logo="https://www.kgtv.tk/api/chan/K+.png" ,K+
-http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
-#EXTINF:0 group-title="INDIHOME" ,MUSIK INDONESIA ID
-https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8?c
-#EXTINF:0 group-title="KOREAN CHANNEL" tvg-logo="https://www.kgtv.tk/api/chan/Tvn.png" ,TVN
-https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
-#EXTINF:0 group-title="KOREAN CHANNEL" ,TVN MOVIES
-https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
-#EXTINF:0 group-title="KOREAN CHANNEL" tvg-logo="https://www.kgtv.tk/api/chan/One.png" ,ONE
-https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
-#EXTINF:0 group-title="KOREAN CHANNEL" ,KBS DRAMA
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:0 group-title="KOREAN CHANNEL" tvg-logo="https://www.kgtv.tk/api/chan/Kbs World.png" ,KBS WORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:0 group-title="KOREAN CHANNEL" ,KBS TV
-https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
-#EXTINF:0 group-title="KOREAN CHANNEL" ,SBS TV
-https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="KOREAN CHANNEL" ,CJ ENM
-https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Antv.png" ,ANTV
-https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Indosiar.png" ,INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Mnc Tv.png" ,MNC TV
-https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Rcti.png" ,RCTI
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Sctv.png" ,SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Metro Tv.png" ,METRO TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Kompas Tv.png" ,KOMPAS TV
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Tvri.png" ,TVRI
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Trans 7.png" ,TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Global Tv.png" ,GLOBAL TV
-https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Trans Tv.png" ,TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Cnn Indonesia.png" ,CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Cnbc.png" ,CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-#EXTINF:0 group-title="NASIONAL" ,METRO GLOBE WORLD
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
-#EXTINF:0 group-title="NASIONAL" ,TV ONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:0 group-title="NASIONAL" ,I-NEWS
-https://allcutv.rctiplus.id/inews2023.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Rtv.png" ,RTV
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-RTV.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Net Tv.png" ,NET TV
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Btv.png" ,BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:0 group-title="NASIONAL" ,NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:0 group-title="NASIONAL" ,BN CHANNEL
-https://flv.intechmedia.net/live/ch112.m3u8
-#EXTINF:0 group-title="NASIONAL" ,IDTV
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Vtv.png" ,VTV
-https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:0 group-title="NASIONAL" ,DAAI
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:0 group-title="NASIONAL" ,INDONESIANA TV
-https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:0 group-title="NASIONAL" ,GARUDA TV
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:0 group-title="NASIONAL" ,MENTARI TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-#EXTINF:0 group-title="NASIONAL" ,MAGNA CHANNEL
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Inspira Tv.png" ,INSPIRA TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:0 group-title="INDIHOME" ,SPO TV
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:0 group-title="INDIHOME" ,SPO TV 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Nba Tv.png" ,NBA TV
-https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,FIGHT SPORT
-https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,FUN PLANET
-https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,TVN MOVIES
-https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Imc.png" ,IMC
-https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,GALAXY PREMIUM
-https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Galaxy.png" ,GALAXY
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,FLIK
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,BIOSKOP INDONESIA
-https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
-#EXTINF:0 group-title="INDIHOME" ,CELESTIAL MOVIE
-https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Cinema.png" ,MY CINEMA
-https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,CINEMA WORLD
-https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Cnbc Indonesia.png" ,CNBC INDONESIA
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Cnn Indonesia.png" ,CNN INDONESIA
-https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Tvn.png" ,TVN
-https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/History.png" ,HISTORY
-https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,DUNIA LAIN
-https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,CITRA DRAMA
-https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/One.png" ,ONE
-https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Kix.png" ,KIX
-https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,KUNGFU TV
-https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,ZHEJIANG TV
-https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,SHENZHEN TV
-https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Cartoon Network.png" ,CARTOON NETWORK
-https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
-#EXTINF:0 group-title="INDIHOME" ,HOREE
-https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Discovery.png" ,DISCOVERY
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
-#EXTINF:0 group-title="INDIHOME" ,TEXHSTORM
-https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Crime Investigation.png" ,CRIME INVESTIGATION
-https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,PANDA TV
-https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,AFN
-https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Hgtv.png" ,HGTV
-https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,EAT N GO
-https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,CITRA DRAMA
-https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,CITRA DANGDUT
-https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,INSERT
-https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Nick Junior.png" ,NICK JUNIOR
-https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,CURIOSITY
-https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,LOVE NATURE
-https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Animal Planet.png" ,ANIMAL PLANET
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
-#EXTINF:0 group-title="INDIHOME" ,DISCOVERY ASIA
-https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
-#EXTINF:0 group-title="INDIHOME" ,DUNIA ANAK
-https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
-#EXTINF:0 group-title="INDIHOME" ,HITS NOW
-https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 
+
+
+###INDIHOME เห็น
+#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Tvri.png" ,TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Trans 7.png" ,TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Trans Tv.png" ,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
+#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Cnn Indonesia.png" ,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Cnbc.png" ,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+#EXTINF:0 group-title="INDIHOME" ,I-NEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:0 group-title="INDIHOME" ,NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:0 group-title="INDIHOME" ,INDONESIANA TV
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:0 group-title="INDIHOME" ,DAAI
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:0 group-title="INDIHOME" ,GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:0 group-title="INDIHOME" ,MENTARI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:0 group-title="INDIHOME" ,MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Inspira Tv.png" ,INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+
+###
 
 
 
@@ -2174,41 +2078,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
 
 
-######### TVAsia  #######
-#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="TVAsia",RTB Sukmaindera (720p)
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="TVAsia",RTM TV 1 [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="TVAsia",RTM TV 2 [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="TVAsia",Sukan RTM [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TVAsia",Rodja TV (720p)
-https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="TVAsia",Sakti TV (720p)
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TVAsia",Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TVAsia",Trans TV (720p)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="TVAsia",TV9 Nusantara (720p)
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="TVAsia",TV Mu (720p) [Not 24/7]
-https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-id="TVRIAceh.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVAsia",TVRI Aceh (720p)
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:-1 tvg-id="TVRIBali.id" tvg-logo="https://i.imgur.com/3N6NDPf.png" group-title="TVAsia",TVRI Bali (480p)
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVAsia",TVRI Bangka Belitung (480p)
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:-1 tvg-id="TVRIBengkulu.id" tvg-logo="https://i.imgur.com/qswy60o.png" group-title="TVAsia",TVRI Bengkulu (480p)
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="TVAsia",TV Mu (720p) [Not 24/7]
-https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="TVAsia",TV9 Nusantara (720p)
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="RTMASEAN.my" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="TVAsia",RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 
 
