@@ -8,157 +8,157 @@
 #EXTINF:-1 group-title=""แจกฟรี สามารถโดเนท ได้" tvg-logo="https://www.facebook.com/photo/?fbid=122104732922886132&set=a.122099901452886132",สนับสนุน พร้อมเพย 0892938296
 https://raw.githubusercontent.com/BeritaSelatan/Th/refs/heads/main/%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B9%84%E0%B8%A1
 
+######malay indo########
 
-
-#EXTINF:0 group-title="MPD" tvg-logo="https://www.kgtv.tk/api/chan/Tv 6.png" ,TV 6
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Tv 6.png" ,TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:0 group-title="MPD" tvg-logo="https://www.kgtv.tk/api/chan/Tv Okey.png" ,TV OKEY
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Tv Okey.png" ,TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-#EXTINF:0 group-title="MPD" ,DUNIA SINEMA
+#EXTINF:0 group-title="Malay Indo" ,DUNIA SINEMA
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
-#EXTINF:0 group-title="MPD" tvg-logo="https://www.kgtv.tk/api/chan/Tv2.png" ,TV2
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Tv2.png" ,TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:0 group-title="MPD" ,TV1
+#EXTINF:0 group-title="Malay Indo" ,TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:0 group-title="SPORT" ,SPO TV
+#EXTINF:0 group-title="Malay Indo" ,SPO TV
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:0 group-title="LIGA 1" ,CHANNEL BRI LIGA 3
+#EXTINF:0 group-title="Malay Indo" ,CHANNEL BRI LIGA 3
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://www.kgtv.tk/api/chan/Animal Planet.png" ,ANIMAL PLANET
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Animal Planet.png" ,ANIMAL PLANET
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
-#EXTINF:0 group-title="ENTERTAINMENT" ,WILD EARTH
+#EXTINF:0 group-title="Malay Indo" ,WILD EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://www.kgtv.tk/api/chan/Insight.png" ,INSIGHT
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Insight.png" ,INSIGHT
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" ,OXYGENO
+#EXTINF:0 group-title="Malay Indo" ,OXYGENO
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w807150064.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" ,EARTOUCH TV
+#EXTINF:0 group-title="Malay Indo" ,EARTOUCH TV
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" ,ITALIAN FISHING
+#EXTINF:0 group-title="Malay Indo" ,ITALIAN FISHING
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" ,WIRED 2 FISH
+#EXTINF:0 group-title="Malay Indo" ,WIRED 2 FISH
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" ,LOVE NATURE
+#EXTINF:0 group-title="Malay Indo" ,LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" ,DUNIA LAIN
+#EXTINF:0 group-title="Malay Indo" ,DUNIA LAIN
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/910
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.kgtv.tk/api/chan/Discovery H H.png" ,DISCOVERY H&H
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Discovery H H.png" ,DISCOVERY H&H
 http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/68.ts
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.kgtv.tk/api/chan/Discovery Theater.png" ,DISCOVERY THEATER
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Discovery Theater.png" ,DISCOVERY THEATER
 http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/74.ts
-#EXTINF:0 group-title="KNOWLEDGE" ,H2 LATIN
+#EXTINF:0 group-title="Malay Indo" ,H2 LATIN
 http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/81.ts
-#EXTINF:0 group-title="KNOWLEDGE" ,HISTORY HIT
+#EXTINF:0 group-title="Malay Indo" ,HISTORY HIT
 https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.kgtv.tk/api/chan/Outdoor.png" ,OUTDOOR
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Outdoor.png" ,OUTDOOR
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,PLUTO TV FANTASTIC
+#EXTINF:0 group-title="Malay Indo" ,PLUTO TV FANTASTIC
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 group-title="KNOWLEDGE" ,WORLD WAR TV
+#EXTINF:0 group-title="Malay Indo" ,WORLD WAR TV
 https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,WATER BEAR
+#EXTINF:0 group-title="Malay Indo" ,WATER BEAR
 https://amg01415-waterbearnetwor-waterbear-samsungnl-dkx60.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,WILD EARTH
+#EXTINF:0 group-title="Malay Indo" ,WILD EARTH
 https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,INFAST
+#EXTINF:0 group-title="Malay Indo" ,INFAST
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,INWONDER
+#EXTINF:0 group-title="Malay Indo" ,INWONDER
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,INWILD
+#EXTINF:0 group-title="Malay Indo" ,INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:0 group-title="KNOWLEDGE" ,REAL WILD
+#EXTINF:0 group-title="Malay Indo" ,REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,LOVE THE PLANET
+#EXTINF:0 group-title="Malay Indo" ,LOVE THE PLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720p/index.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.kgtv.tk/api/chan/Rt Documentary.png" ,RT DOCUMENTARY
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Rt Documentary.png" ,RT DOCUMENTARY
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,TVRI WORLD
+#EXTINF:0 group-title="Malay Indo" ,TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:0 group-title="SPORT" tvg-logo="https://www.kgtv.tk/api/chan/Glory Kickboxing.png" ,GLORY KICKBOXING
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Glory Kickboxing.png" ,GLORY KICKBOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 group-title="DAZN" ,DAZN SERIE A
+#EXTINF:0 group-title="Malay Indo" ,DAZN SERIE A
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/787638
-#EXTINF:0 group-title="DAZN" ,DAZN F1 IP
+#EXTINF:0 group-title="Malay Indo" ,DAZN F1 IP
 http://opplex.tv:8080/live/12345678910/12345678910/354195.ts
-#EXTINF:0 group-title="DAZN" tvg-logo="https://www.kgtv.tk/api/chan/Dazn 1.png" ,DAZN 1
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Dazn 1.png" ,DAZN 1
 http://opplex.tv:8080/live/12345678910/12345678910/233075.ts
-#EXTINF:0 group-title="DAZN" tvg-logo="https://www.kgtv.tk/api/chan/Dazn 2.png" ,DAZN 2
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Dazn 2.png" ,DAZN 2
 http://opplex.tv:8080/live/12345678910/12345678910/233075.ts
-#EXTINF:0 group-title="DAZN" ,DAZN 3
+#EXTINF:0 group-title="Malay Indo" ,DAZN 3
 http://opplex.tv:8080/live/12345678910/12345678910/233078.ts
-#EXTINF:0 group-title="DAZN" ,DAZN 4
+#EXTINF:0 group-title="Malay Indo" ,DAZN 4
 http://opplex.tv:8080/live/12345678910/12345678910/233080.ts
-#EXTINF:0 group-title="DAZN" ,DAZN 5
+#EXTINF:0 group-title="Malay Indo" ,DAZN 5
 http://opplex.tv:8080/live/12345678910/12345678910/233082.ts
-#EXTINF:0 group-title="DAZN" ,DAZN 6
+#EXTINF:0 group-title="Malay Indo" ,DAZN 6
 http://opplex.tv:8080/live/12345678910/12345678910/233084.ts
-#EXTINF:0 group-title="KIDS" ,FUN PLANET
+#EXTINF:0 group-title="Malay Indo" ,FUN PLANET
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
-#EXTINF:0 group-title="SPORT" ,MEGOGO FOOTBALL
+#EXTINF:0 group-title="Malay Indo" ,MEGOGO FOOTBALL
 http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31483/index.m3u8
-#EXTINF:0 group-title="SPORT" ,MEGOGO FOOTBALL 2
+#EXTINF:0 group-title="Malay Indo" ,MEGOGO FOOTBALL 2
 http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31505/index.m3u8
-#EXTINF:0 group-title="SPORT" ,MEGOGO FOOTBALL 3
+#EXTINF:0 group-title="Malay Indo" ,MEGOGO FOOTBALL 3
 http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31504/index.m3u8
-#EXTINF:0 group-title="KIDS" tvg-logo="https://www.kgtv.tk/api/chan/Nicktoons.png" ,NICKTOONS US
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Nicktoons.png" ,NICKTOONS US
 https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:0 group-title="KIDS" tvg-logo="https://www.kgtv.tk/api/chan/Nickelodeon.png" ,NICKELODEON US
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Nickelodeon.png" ,NICKELODEON US
 https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:0 group-title="HBO" ,HBO FAMILY US
+#EXTINF:0 group-title="Malay Indo" ,HBO FAMILY US
 https://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:0 group-title="HBO" tvg-logo="https://www.kgtv.tk/api/chan/Hbo Comedy.png" ,HBO COMEDY
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Hbo Comedy.png" ,HBO COMEDY
 https://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:0 group-title="HBO" tvg-logo="https://www.kgtv.tk/api/chan/Hbo 2.png" ,HBO 2 US
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Hbo 2.png" ,HBO 2 US
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:0 group-title="HBO" tvg-logo="https://www.kgtv.tk/api/chan/Hbo 1.png" ,HBO 1 US
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Hbo 1.png" ,HBO 1 US
 https://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:0 group-title="MOVIE" ,FX MOVIE
+#EXTINF:0 group-title="Malay Indo" ,FX MOVIE
 https://fl6.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:0 group-title="MUSIC" tvg-logo="https://www.kgtv.tk/api/chan/Mtv.png" ,MTV LIVE
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Mtv.png" ,MTV LIVE
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:0 group-title="MUSIC" tvg-logo="https://www.kgtv.tk/api/chan/Mtv Classic.png" ,MTV CLASSIC US
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Mtv Classic.png" ,MTV CLASSIC US
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:0 group-title="MUSIC" ,MTV 1 US
+#EXTINF:0 group-title="Malay Indo" ,MTV 1 US
 https://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:0 group-title="MUSIC" tvg-logo="https://www.kgtv.tk/api/chan/Mtv 2.png" ,MTV US 2
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Mtv 2.png" ,MTV US 2
 https://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:0 group-title="KIDS" ,CARTOON MR BEAN
+#EXTINF:0 group-title="Malay Indo" ,CARTOON MR BEAN
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:0 group-title="KIDS" ,KIDOODLE
+#EXTINF:0 group-title="Malay Indo" ,KIDOODLE
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="KIDS" ,FLIX KIDS
+#EXTINF:0 group-title="Malay Indo" ,FLIX KIDS
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:0 group-title="KIDS" ,KARTOON TV
+#EXTINF:0 group-title="Malay Indo" ,KARTOON TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8?zyz
-#EXTINF:0 group-title="SPORT" ,BELLATOR MMA
+#EXTINF:0 group-title="Malay Indo" ,BELLATOR MMA
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 group-title="SPORT" tvg-logo="https://www.kgtv.tk/api/chan/Impact Wrestling.png" ,IMPACT WRESTLING
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Impact Wrestling.png" ,IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 group-title="SPORT" tvg-logo="https://www.kgtv.tk/api/chan/Real Madrid Tv.png" ,REAL MADRID TV
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Real Madrid Tv.png" ,REAL MADRID TV
 https://rmtv-canela.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.kgtv.tk/api/chan/Animal Planet.png" ,ANIMAL PLANET
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Animal Planet.png" ,ANIMAL PLANET
 https://fl5.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,DISCOVERY FAMILY CHANNEL
+#EXTINF:0 group-title="Malay Indo" ,DISCOVERY FAMILY CHANNEL
 https://fl5.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.kgtv.tk/api/chan/Discovery Channel.png" ,DISCOVERY CHANNEL
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Discovery Channel.png" ,DISCOVERY CHANNEL
 https://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.kgtv.tk/api/chan/Discovery Science.png" ,DISCOVERY SCIENCE
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Discovery Science.png" ,DISCOVERY SCIENCE
 https://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.kgtv.tk/api/chan/Discovery Life.png" ,DISCOVERY LIFE
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Discovery Life.png" ,DISCOVERY LIFE
 https://fl5.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:0 group-title="KIDS" tvg-logo="https://www.kgtv.tk/api/chan/Aniplus.png" ,ANIPLUS
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Aniplus.png" ,ANIPLUS
 https://melon-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
-#EXTINF:0 group-title="KIDS" ,MOON BUG
+#EXTINF:0 group-title="Malay Indo" ,MOON BUG
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="KIDS" ,MY KIDZ
+#EXTINF:0 group-title="Malay Indo" ,MY KIDZ
 https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,DENS SHOWBIZ
+#EXTINF:0 group-title="Malay Indo" ,DENS SHOWBIZ
 https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,DENS LIFE STYLE
+#EXTINF:0 group-title="Malay Indo" ,DENS LIFE STYLE
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,DENS KNOWLEDGE
+#EXTINF:0 group-title="Malay Indo" ,DENS KNOWLEDGE
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,DENS FOOD CHANNEL
+#EXTINF:0 group-title="Malay Indo" ,DENS FOOD CHANNEL
 https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #EXTINF:0 group-title="MOVIE" tvg-logo="https://www.kgtv.tk/api/chan/Cinema.png" ,MY CINEMA
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=ts&play_token=GVZS088tcf
@@ -166,9 +166,9 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extensi
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 #EXTINF:0 group-title="MOVIE" ,MY CINEMA ASIA
 http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" ,LOVE NATURE 4K
+#EXTINF:0 group-title="Malay Indo" ,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.kgtv.tk/api/chan/Ebs 1.png" ,EBS 1
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Ebs 1.png" ,EBS 1
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 #EXTINF:0 group-title="MOVIE" ,SBS TV
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -200,7 +200,7 @@ https://v2.siar.us/mic/live/playlist.m3u8
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:0 group-title="MUSIC" ,POP MUSIC
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" ,MEDIACORP ENT CHINA
+#EXTINF:0 group-title="Malay Indo" ,MEDIACORP ENT CHINA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 #EXTINF:0 group-title="KOREAN CHANNEL" tvg-logo="https://www.kgtv.tk/api/chan/K+.png" ,K+
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
@@ -220,7 +220,7 @@ https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.co
 https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
 #EXTINF:0 group-title="MALAYSIA" ,DRAMA HEBAT
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
-#EXTINF:0 group-title="NEWS" tvg-logo="https://www.kgtv.tk/api/chan/Fox News.png" ,FOX NEWS
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Fox News.png" ,FOX NEWS
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:0 group-title="INDIHOME" ,MUSIK INDONESIA ID
 https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8?c
@@ -236,15 +236,15 @@ http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/191686
 http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/153705
 #EXTINF:0 group-title="SPORT" ,SKY SPORT LA LIGA
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19105/index.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://www.kgtv.tk/api/chan/Tv 5 Monde Style.png" ,TV5 MONDE STYLE
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Tv 5 Monde Style.png" ,TV5 MONDE STYLE
 https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 #EXTINF:0 group-title="SPORT" tvg-logo="https://www.kgtv.tk/api/chan/Sky Sport Arena.png" ,SKY SPORT ARENA
 http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/153705
-#EXTINF:0 group-title="ENTERTAINMENT" ,DENS LIFE & STYLE
+#EXTINF:0 group-title="Malay Indo" ,DENS LIFE & STYLE
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://www.kgtv.tk/api/chan/Arirang.png" ,ARIRANG
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Arirang.png" ,ARIRANG
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://www.kgtv.tk/api/chan/Travel.png" ,4K TRAVEL
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Travel.png" ,4K TRAVEL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:0 group-title="LIGA 1" ,INDOSIAR 1
 https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
@@ -256,7 +256,7 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1200000=4-mp
 https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
 #EXTINF:0 group-title="LIGA 1" ,CHANNEL 2 ( BRI LIGA )
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
-#EXTINF:0 group-title="ENTERTAINMENT" ,ASTRO CITRA
+#EXTINF:0 group-title="Malay Indo" ,ASTRO CITRA
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroCitra.m3u8
 #EXTINF:0 group-title="SPORT" ,SPO TV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
@@ -332,15 +332,15 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="KOREAN CHANNEL" ,CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-#EXTINF:0 group-title="HBO" tvg-logo="https://www.kgtv.tk/api/chan/Hbo.png" ,HBO
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Hbo.png" ,HBO
 http://iptv12k.com:35461/654321/123456/599
-#EXTINF:0 group-title="HBO" ,HBO HITS
+#EXTINF:0 group-title="Malay Indo" ,HBO HITS
 http://iptv12k.com:35461/654321/123456/598
-#EXTINF:0 group-title="HBO" ,HBO FAMILY
+#EXTINF:0 group-title="Malay Indo" ,HBO FAMILY
 http://iptv12k.com:35461/654321/123456/597
-#EXTINF:0 group-title="HBO" tvg-logo="https://www.kgtv.tk/api/chan/Hbo Signature.png" ,HBO SIGNATURE
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Hbo Signature.png" ,HBO SIGNATURE
 http://iptv12k.com:35461/654321/123456/596
-#EXTINF:0 group-title="HBO" tvg-logo="https://www.kgtv.tk/api/chan/Cinemax.png" ,CINEMAX
+#EXTINF:0 group-title="Malay Indo" tvg-logo="https://www.kgtv.tk/api/chan/Cinemax.png" ,CINEMAX
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 #EXTINF:0 group-title="NASIONAL" tvg-logo="https://www.kgtv.tk/api/chan/Antv.png" ,ANTV
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
@@ -488,6 +488,12 @@ https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 #EXTINF:0 group-title="INDIHOME" ,HITS NOW
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
+
+
+
+
+
+
 ########################################
 ###ทีวีดิจิตอลไทย###
 ########################################
