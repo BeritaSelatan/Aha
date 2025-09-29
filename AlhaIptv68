@@ -91,6 +91,15 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/play
 #EXTINF:-1 tvg-id="FW.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/CxNv6nGZ/IMG-1838.png", T Sport 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 
+#EXTINF:-1 group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TopNews.png",Top News
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+
+#EXTINF:-1 group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/500px-Nation_TV_Logo.svg.png",Nation TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+
+#EXTINF:-1 group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ALTV.png",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
 
 
 
@@ -106,7 +115,7 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/500px-Nation_TV_Logo.svg.png",Nation TV
-#https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 #EXTVLCOPT:http-referrer=https://www.nationtv.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
@@ -144,6 +153,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBT2HD_2025.png",NBT HD
 #https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ALTV.png",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png",VIPA
