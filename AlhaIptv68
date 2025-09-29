@@ -2764,30 +2764,18 @@ https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 #######3BBGIGATV##########
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="3BBGIGATV",CNN International
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream3BBGIGATV=186374&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2014/08/abc-news-logo.jpg" group-title="3BBGIGATV",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Global_News.svg" group-title="3BBGIGATV",Global News
-http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png" group-title="3BBGIGATV",DW English
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186588&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png" group-title="3BBGIGATV",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png" group-title="3BBGIGATV",Al Jazeera English
-h3BBGIGATVttp://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186378&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAFFJLPngPjCb-HsHDYvLn_2u3NLgkTmldTRSOCyPTvMQKfaBKdeGD1PZGtNpYbBD9JM&usqp=CAU" group-title="3BBGIGATV",TRT World
-http://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png" group-title="3BBGIGATV",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1705785346.png" group-title="3BBGIGATV",Boomberg News
-https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png" group-title="3BBGIGATV",NHK WORLD-JAPAN
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186490&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715648168.png" group-title="3BBGIGATV",SkyNews
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png" group-title="3BBGIGATV",Rusia Today
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186585&extension=ts
+#EXTINF:-1 tvg-id="I501.10240.gracenote.com" tvg-name="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="3BBGIGATV",HBO
+http://panel.sulu1.cc:2052/travis1/travis1/88742
+#EXTINF:-1 tvg-id="I502.59368.gracenote.com" tvg-name="HBO 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true" group-title="3BBGIGATV",HBO 2
+http://panel.sulu1.cc:2052/travis1/travis1/88743
+#EXTINF:-1 tvg-id="I506.59839.gracenote.com" tvg-name="HBO Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" group-title="3BBGIGATV",HBO Comedy
+http://panel.sulu1.cc:2052/travis1/travis1/88744
+#EXTINF:-1 tvg-id="I507.16585.gracenote.com" tvg-name="HBO Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true" group-title="3BBGIGATV",HBO Family
+http://panel.sulu1.cc:2052/travis1/travis1/88745
+#EXTINF:-1 tvg-id="I253.18480.gracenote.com" tvg-name="Lifetime Movie Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movie-network-us.png?raw=true" group-title="3BBGIGATV",Lifetime Movie Network
+http://panel.sulu1.cc:2052/travis1/travis1/88747
+#EXTINF:-1 tvg-id="I517.10121.gracenote.com" tvg-name="MoreMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="3BBGIGATV",MoreMAX
+http://panel.sulu1.cc:2052/travis1/travis1/88752
 
 #EXTINF:-0 group-title="3BBGIGATV" tvg-id="hbo.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO TH
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
@@ -2834,18 +2822,32 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-#EXTINF:-1 tvg-id="I501.10240.gracenote.com" tvg-name="HBO" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="3BBGIGATV",HBO
-http://panel.sulu1.cc:2052/travis1/travis1/88742
-#EXTINF:-1 tvg-id="I502.59368.gracenote.com" tvg-name="HBO 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true" group-title="3BBGIGATV",HBO 2
-http://panel.sulu1.cc:2052/travis1/travis1/88743
-#EXTINF:-1 tvg-id="I506.59839.gracenote.com" tvg-name="HBO Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" group-title="3BBGIGATV",HBO Comedy
-http://panel.sulu1.cc:2052/travis1/travis1/88744
-#EXTINF:-1 tvg-id="I507.16585.gracenote.com" tvg-name="HBO Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true" group-title="3BBGIGATV",HBO Family
-http://panel.sulu1.cc:2052/travis1/travis1/88745
-#EXTINF:-1 tvg-id="I253.18480.gracenote.com" tvg-name="Lifetime Movie Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movie-network-us.png?raw=true" group-title="3BBGIGATV",Lifetime Movie Network
-http://panel.sulu1.cc:2052/travis1/travis1/88747
+
 #EXTINF:-1 tvg-id="I517.10121.gracenote.com" tvg-name="MoreMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="3BBGIGATV",MoreMAX
 http://panel.sulu1.cc:2052/travis1/travis1/88752
+#EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2014/08/abc-news-logo.jpg" group-title="3BBGIGATV",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Global_News.svg" group-title="3BBGIGATV",Global News
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png" group-title="3BBGIGATV",DW English
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186588&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png" group-title="3BBGIGATV",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png" group-title="3BBGIGATV",Al Jazeera English
+h3BBGIGATVttp://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186378&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAFFJLPngPjCb-HsHDYvLn_2u3NLgkTmldTRSOCyPTvMQKfaBKdeGD1PZGtNpYbBD9JM&usqp=CAU" group-title="3BBGIGATV",TRT World
+http://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png" group-title="3BBGIGATV",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1705785346.png" group-title="3BBGIGATV",Boomberg News
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png" group-title="3BBGIGATV",NHK WORLD-JAPAN
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186490&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1715648168.png" group-title="3BBGIGATV",SkyNews
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png" group-title="3BBGIGATV",Rusia Today
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186585&extension=ts
+
 #EXTINF:-1 tvg-id="ScreenPix.us" tvg-name="ScreenPix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-us.png?raw=true" group-title="3BBGIGATV",ScreenPix
 http://panel.sulu1.cc:2052/travis1/travis1/88755
 #EXTINF:-1 tvg-id="ScreenPix.Voices.us" tvg-name="ScreenPix Voices" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-voices-us.png?raw=true" group-title="3BBGIGATV",ScreenPix Voices
