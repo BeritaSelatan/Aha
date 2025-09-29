@@ -102,11 +102,11 @@ https://live.thaitvstream.com/play/thainews/index.m3u8
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/baanbaantv.png", บ้านบ้านทีวี
 https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
-#EXTINF:-1 tvg-id="TOPNEW" group-title="DIGITAL TV" tvg-logo="https://i.postimg.cc/TwwQXPFc/TOPNEW.jpg",TOPNEW
+#EXTINF:-1 tvg-id="TOPNEW" group-title="Digital TV" tvg-logo="https://i.postimg.cc/TwwQXPFc/TOPNEW.jpg",TOPNEW
 https://live.topnews.co.th/hls/mobile_v1.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS4.th" group-title="DIGITAL TV" tvg-logo="https://i.postimg.cc/c4pRMRr7/IMG-1847.png", ALTV 4
+#EXTINF:-1 tvg-id="ThaiPBS4.th" group-title="Digital TV" tvg-logo="https://i.postimg.cc/c4pRMRr7/IMG-1847.png", ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Vipa.th" group-title="DIGITAL TV" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png", VIPA
+#EXTINF:-1 tvg-id="Vipa.th" group-title="Digital TV" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png", VIPA
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
 
 
