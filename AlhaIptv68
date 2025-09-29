@@ -1331,36 +1331,6 @@ http://opplex.tv:8080/live/12345678910/12345678910/233084.ts
 #EXTINF:0 group-title="MOVIE" ,FX MOVIE
 https://fl6.moveonjoy.com/FX_MOVIE/index.m3u8
 
-
-#EXTINF:0 group-title="MOVIE" tvg-logo="https://www.kgtv.tk/api/chan/Cinema.png" ,MY CINEMA
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683099&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 group-title="MOVIE" ,MY FAMILY CHANNEL
-http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
-#EXTINF:0 group-title="MOVIE" ,MY CINEMA ASIA
-http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-#EXTINF:0 group-title="MOVIE" ,SBS TV
-https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="MOVIE" tvg-logo="https://www.kgtv.tk/api/chan/Kix.png" ,KIX
-http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-#EXTINF:0 group-title="MOVIE" ,CJ ENM
-https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-#EXTINF:0 group-title="MOVIE" tvg-logo="https://www.kgtv.tk/api/chan/Arirang.png" ,ARIRANG
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 group-title="MOVIE" tvg-logo="https://www.kgtv.tk/api/chan/K+.png" ,K+
-http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
-#EXTINF:0 group-title="MOVIE" ,KBS KOREA
-http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
-#EXTINF:0 group-title="MOVIE" tvg-logo="https://www.kgtv.tk/api/chan/Kbs World.png" ,KBS WORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:0 group-title="MOVIE" tvg-logo="https://www.kgtv.tk/api/chan/Celestial Movies.png" ,CELESTIAL MOVIES
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
-#EXTINF:0 group-title="MOVIE" ,ROCK ENTERTAINMENT
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-#EXTINF:0 group-title="MOVIE" ,ROCK ACTION
-http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
-
-
-
 ###INDIHOME เห็น
 #EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Tvri.png" ,TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
