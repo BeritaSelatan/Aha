@@ -2847,6 +2847,8 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186490&extension=
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png" group-title="3BBGIGATV",Rusia Today
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186585&extension=ts
+#EXTINF:-1 tvg-id="CNN.us" group-title="3BBGIGATV" tvg-logo="https://i.postimg.cc/hvgm5x6D/IMG-2117.png", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="ScreenPix.us" tvg-name="ScreenPix" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/screenpix-us.png?raw=true" group-title="3BBGIGATV",ScreenPix
 http://panel.sulu1.cc:2052/travis1/travis1/88755
