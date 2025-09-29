@@ -453,8 +453,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4432/02_sport3_720p/chunklist.m3u8
 
-
-cdn.live/ballsod24hrs/bein4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png" group-title="Monomax $ Sports ",BeinSport4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
@@ -782,8 +780,6 @@ http://panel.sulu1.cc:2052/travis1/travis1/18863
 ## ช่องฟุตบอลไทยลีด ##
 ########################################
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="ช่องกีฬา",MONOMAX 3
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH1.png" group-title="ช่องฟุตบอลไทยลีก",Live 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -1399,73 +1395,9 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34683
 
 
 
-##### malay indo ######
 
 
-#EXTINF:0 group-title="MalaysiaIptv" ,TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Tv2.png" ,TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Tv 6.png" ,TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Tv Okey.png" ,TV OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Astro Awani.png" ,ASTRO AWANI
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Tv Ikim.png" ,TV IKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:0 group-title="MalaysiaIptv" ,DUNIA SINEMA
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="MalaysiaIptv",RTB Sukmaindera (720p)
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="MalaysiaIptv",RTM TV 1 [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="MalaysiaIptv",RTM TV 2 [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="MalaysiaIptv",Sukan RTM [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="MalaysiaIptv",Rodja TV (720p)
-https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="MalaysiaIptv",Sakti TV (720p)
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="MalaysiaIptv",Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="MalaysiaIptv",Trans TV (720p)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="TVAsia",TV9 Nusantara (720p)
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="MalaysiaIptv",TV Mu (720p) [Not 24/7]
-https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-id="TVRIAceh.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="MalaysiaIptv",TVRI Aceh (720p)
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:-1 tvg-id="TVRIBali.id" tvg-logo="https://i.imgur.com/3N6NDPf.png" group-title="MalaysiaIptv",TVRI Bali (480p)
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="MalaysiaIptv",TVRI Bangka Belitung (480p)
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:-1 tvg-id="TVRIBengkulu.id" tvg-logo="https://i.imgur.com/qswy60o.png" group-title="MalaysiaIptv",TVRI Bengkulu (480p)
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="MalaysiaIptv",TV Mu (720p) [Not 24/7]
-https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="MalaysiaIptv",TV9 Nusantara (720p)
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="RTMASEAN.my" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="MalaysiaIptv",RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-
-
-
-#EXTINF:0 group-title="MalaysiaIptv" ,TRAVEL & TASTE
-https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-#EXTINF:0 group-title="MalaysiaIptv" ,LAWAK SENTRAL
-https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
-#EXTINF:0 group-title="MalaysiaIptv" ,DRAMA HOTPOT
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
-#EXTINF:0 group-title="MalaysiaIptv" ,FILEM MANTAP
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
-#EXTINF:0 group-title="MalaysiaIptv" ,DRAMA HEBAT
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
-
-
+######## DAZN ########
 #EXTINF:0 group-title="DAZN" ,DAZN SERIE A
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/787638
 #EXTINF:0 group-title="DAZN" ,DAZN F1 IP
@@ -1633,6 +1565,66 @@ http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1706.m3u8
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" group-title="MalaysiaIptv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png?20240901000644",ASTRO Warna
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1706.m3u8
 
+#EXTINF:0 group-title="MalaysiaIptv" ,TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Tv2.png" ,TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Tv 6.png" ,TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Tv Okey.png" ,TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Astro Awani.png" ,ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:0 group-title="MalaysiaIptv" tvg-logo="https://www.kgtv.tk/api/chan/Tv Ikim.png" ,TV IKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:0 group-title="MalaysiaIptv" ,DUNIA SINEMA
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="MalaysiaIptv",RTB Sukmaindera (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="MalaysiaIptv",RTM TV 1 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="MalaysiaIptv",RTM TV 2 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="MalaysiaIptv",Sukan RTM [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="MalaysiaIptv",Rodja TV (720p)
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="MalaysiaIptv",Sakti TV (720p)
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="MalaysiaIptv",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="MalaysiaIptv",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="MalaysiaIptv",TV9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="MalaysiaIptv",TV Mu (720p) [Not 24/7]
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="TVRIAceh.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="MalaysiaIptv",TVRI Aceh (720p)
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="TVRIBali.id" tvg-logo="https://i.imgur.com/3N6NDPf.png" group-title="MalaysiaIptv",TVRI Bali (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="MalaysiaIptv",TVRI Bangka Belitung (480p)
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="TVRIBengkulu.id" tvg-logo="https://i.imgur.com/qswy60o.png" group-title="MalaysiaIptv",TVRI Bengkulu (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="MalaysiaIptv",TV Mu (720p) [Not 24/7]
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="MalaysiaIptv",TV9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="RTMASEAN.my" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="MalaysiaIptv",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:0 group-title="MalaysiaIptv" ,TRAVEL & TASTE
+https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+#EXTINF:0 group-title="MalaysiaIptv" ,LAWAK SENTRAL
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+#EXTINF:0 group-title="MalaysiaIptv" ,DRAMA HOTPOT
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+#EXTINF:0 group-title="MalaysiaIptv" ,FILEM MANTAP
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+#EXTINF:0 group-title="MalaysiaIptv" ,DRAMA HEBAT
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
 
 #EXTINF:-1 group-title="MalaysiaIptv" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -1665,7 +1657,6 @@ http://31.42.187.37:25461/watchpad13158/1234/341
 
 #EXTINF:-1 group-title="MalaysiaIptv" tvg-id="TVS"  tvg- tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
 http://31.42.187.37:25461/watchpad13158/1234/14
-
 
 #EXTINF:-1 group-title="MalaysiaIptv" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
