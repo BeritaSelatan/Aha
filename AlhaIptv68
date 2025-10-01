@@ -1309,31 +1309,6 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34682
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Vinmeen" tvg-logo="" group-title="ASIA | MALAYSIA VIP",MY: Astro Vinmeen
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34683
 
-
-
-
-
-
-######## DAZN ########
-#EXTINF:0 group-title="DAZN" ,DAZN SERIE A
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/787638
-#EXTINF:0 group-title="DAZN" ,DAZN F1 IP
-http://opplex.tv:8080/live/12345678910/12345678910/354195.ts
-#EXTINF:0 group-title="DAZN" tvg-logo="https://www.kgtv.tk/api/chan/Dazn 1.png" ,DAZN 1
-http://opplex.tv:8080/live/12345678910/12345678910/233075.ts
-#EXTINF:0 group-title="DAZN" tvg-logo="https://www.kgtv.tk/api/chan/Dazn 2.png" ,DAZN 2
-http://opplex.tv:8080/live/12345678910/12345678910/233075.ts
-#EXTINF:0 group-title="DAZN" ,DAZN 3
-http://opplex.tv:8080/live/12345678910/12345678910/233078.ts
-#EXTINF:0 group-title="DAZN" ,DAZN 4
-http://opplex.tv:8080/live/12345678910/12345678910/233080.ts
-#EXTINF:0 group-title="DAZN" ,DAZN 5
-http://opplex.tv:8080/live/12345678910/12345678910/233082.ts
-#EXTINF:0 group-title="DAZN" ,DAZN 6
-http://opplex.tv:8080/live/12345678910/12345678910/233084.ts
-#EXTINF:0 group-title="MOVIE" ,FX MOVIE
-https://fl6.moveonjoy.com/FX_MOVIE/index.m3u8
-
 ###INDIHOME เห็น
 #EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Tvri.png" ,TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -1407,10 +1382,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="MalaysiaIptv" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34537
-
-
-#EXTINF:-1 group-title="MalaysiaIptv" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 group-title="MalaysiaIptv" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
@@ -2568,10 +2539,6 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="BBC.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/nzhXJwvZ/IMG-2792.png", BBC Top Gear 
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="Brian.us" group-title="IPTV.Live" tvg-logo="https://i.postimg.cc/SQ72qGNx/IMG-2914.png", Brian TV 
