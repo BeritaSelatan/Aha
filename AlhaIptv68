@@ -1546,6 +1546,7 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34682
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34683
 
 ###INDIHOME เห็น
+
 #EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Tvri.png" ,TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Trans 7.png" ,TRANS 7
@@ -1574,39 +1575,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
-###
-
-
 
 ============================================================================================================================================================
 // Astro Go
 ============================================================================================================================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MyBoo.png" group-title="Astro Go",001. Boo
-https://wahyu1ptv.pages.dev/AstroBoo-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DuniaSinema.png" group-title="Astro Go",002. DuniaSinema
-https://wahyu1ptv.pages.dev/DuniaSinema-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaHebat.png" group-title="Astro Go",003. DramaHebat
-https://WahyuIPTV.short.gy/DramaHebat.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaHotpot.png" group-title="Astro Go",004. DramaHotpot
-https://WahyuIPTV.short.gy/DramaHotPot.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/FilemMantap.png" group-title="Astro Go",005. FilemMantap
-https://WahyuIPTV.short.gy/FilmMantap.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaSangat.png" group-title="Astro Go",Drama Sangat
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroWarna.png" group-title="Astro Go",006. AstroWarna
-https://wahyu1ptv.pages.dev/AstroWarna-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="Astro Go",007. AstroCitra
-https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="Astro Go",008. AstroRia
-https://wahyu1ptv.pages.dev/AstroRia-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPrima.png" group-title="Astro Go",009. AstroPrima
-https://wahyu1ptv.pages.dev/AstroPrima-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="Astro Go",010. AstroAura
-https://wahyu1ptv.pages.dev/AstroAura-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRania.png" group-title="Astro Go",011. AstroRania
-https://wahyu1ptv.pages.dev/AstroRania-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSensasi.png" group-title="Astro Go",012. AstroSensasi
-https://wahyu1ptv.pages.dev/AstroSensasi-HD.m3u8
-
 
 ##### MalaysiaIptv####
 
@@ -1718,6 +1690,32 @@ https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.co
 https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
 #EXTINF:0 group-title="MalaysiaIptv" ,DRAMA HEBAT
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MyBoo.png" group-title="MalaysiaIptv",001. Boo
+https://wahyu1ptv.pages.dev/AstroBoo-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DuniaSinema.png" group-title="MalaysiaIptv",002. DuniaSinema
+https://wahyu1ptv.pages.dev/DuniaSinema-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaHebat.png" group-title="MalaysiaIptv",003. DramaHebat
+https://WahyuIPTV.short.gy/DramaHebat.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaHotpot.png" group-title="MalaysiaIptv",004. DramaHotpot
+https://WahyuIPTV.short.gy/DramaHotPot.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/FilemMantap.png" group-title="MalaysiaIptv",005. FilemMantap
+https://WahyuIPTV.short.gy/FilmMantap.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroWarna.png" group-title="MalaysiaIptv Go",006. AstroWarna
+https://wahyu1ptv.pages.dev/AstroWarna-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="MalaysiaIptv",007. AstroCitra
+https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="MalaysiaIptv",008. AstroRia
+https://wahyu1ptv.pages.dev/AstroRia-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPrima.png" group-title="MalaysiaIptv",009. AstroPrima
+https://wahyu1ptv.pages.dev/AstroPrima-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="MalaysiaIptv",010. AstroAura
+https://wahyu1ptv.pages.dev/AstroAura-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRania.png" group-title="MalaysiaIptv",011. AstroRania
+https://wahyu1ptv.pages.dev/AstroRania-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSensasi.png" group-title="MalaysiaIptv",012. AstroSensasi
+https://wahyu1ptv.pages.dev/AstroSensasi-HD.m3u8
+
 
 
 #EXTINF:-1 group-title="MalaysiaIptv" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
