@@ -681,6 +681,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537006&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537009&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664132050.png" group-title="ช่องกีฬาต่างประทศ",ARENASPORT4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537012&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-1-premium-icon-rs.png" group-title="ช่องกีฬาต่างประทศ",ArenaSportPremium1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537029&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-2-premium-icon-rs.png" group-title="ช่องกีฬาต่างประทศ",ArenaSportPremium2
@@ -922,168 +923,95 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78637&extension=t
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport6.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport6
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78638&extension=ts
 
-
-
-
-
-########################################
-###Nation Sport###
-########################################
-
-
-#EXTINF:-1 tvg-name="Arena Sport Premium 1 SR HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="Nation Sport", Arena Sport Premium 1 SR HD
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.145
-https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
-#EXTINF:-1 tvg-name="Arena Sport Premium 2 SR HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="Nation Sport", Arena Sport Premium 2 SR HD
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.146
-https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
-#EXTINF:-1 tvg-name="Arena Sport Premium 3 SR HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="Nation Sport", Arena Sport Premium 3 SR HD
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.147
-https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
-#EXTINF:-1 tvg-name="Arena Sport Premium 1 SR HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="Nation Sport", Arena Sport Premium 1 SR HD
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.145
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/648638
-#EXTINF:-1 tvg-name="Arena Sport Premium 2 SR HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="Nation Sport", Arena Sport Premium 2 SR HD
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.146
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/648639
-#EXTINF:-1 tvg-name="Arena Sport Premium 3 SR HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="Nation Sport", Arena Sport Premium 3 SR HD
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.147
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/648640
-#EXTINF:-1 tvg-name="Arena Sport 1" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/52085731261.png" group-title="Nation Sport", Arena Sport 1
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.148
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149215
-#EXTINF:-1 tvg-name="Arena Sport 2" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79932990191.png" group-title="Nation Sport", Arena Sport 2
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.149
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149214
-#EXTINF:-1 tvg-name="Arena Sport 3" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/80793684281.png" group-title="Nation Sport", Arena Sport 3
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.150
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149213
-#EXTINF:-1 tvg-name="Arena Sport 4" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86065661241.png" group-title="Nation Sport", Arena Sport 4
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.151
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149209
-#EXTINF:-1 tvg-name="Arena Sport 5" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/12676690491.png" group-title="Nation Sport", Arena Sport 5
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.152
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149208
-#EXTINF:-1 tvg-name="Arena Sport 6" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport1.png" group-title="Nation Sport", Arena Sport 6
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.153
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149210
-#EXTINF:-1 tvg-name="Arena Sport 7" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/80793684281.png" group-title="Nation Sport", Arena Sport 7
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.150
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149145
-#EXTINF:-1 tvg-name="Arena Sport 8" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86065661241.png" group-title="Nation Sport", Arena Sport 8
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.151
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149270
-#EXTINF:-1 tvg-name="Arena Sport 9" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/12676690491.png" group-title="Nation Sport", Arena Sport 9
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.152
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149268
-#EXTINF:-1 tvg-name="Arena Sport 10" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport1.png" group-title="Nation Sport", Arena Sport 10
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.153
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/149266
-#EXTINF:-1 tvg-name="beIN SPORTS Indonesia 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png" group-title="Nation Sport", beIN SPORTS Indonesia 1
+#EXTINF:-1 tvg-name="beIN SPORTS Indonesia 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png" group-title="ช่องกีฬาต่างประทศ", beIN SPORTS Indonesia 1
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.162
 https://wahyu1ptv.pages.dev/IdBeinSports1-HD.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Malaysia 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="Nation Sport", beIN SPORTS Malaysia 1
+#EXTINF:-1 tvg-name="beIN SPORTS Malaysia 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="ช่องกีฬาต่างประทศ", beIN SPORTS Malaysia 1
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.163
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Malaysia 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="Nation Sport", beIN SPORTS Malaysia 2
+#EXTINF:-1 tvg-name="beIN SPORTS Malaysia 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="ช่องกีฬาต่างประทศ", beIN SPORTS Malaysia 2
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.164
 https://wahyu1ptv.pages.dev/AstroBein2.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Malaysia 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="Nation Sport", beIN SPORTS Malaysia 3
+#EXTINF:-1 tvg-name="beIN SPORTS Malaysia 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="ช่องกีฬาต่างประทศ", beIN SPORTS Malaysia 3
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.164
 https://wahyu1ptv.pages.dev/AstroBein3.m3u8
-#EXTINF:-1 tvg-name="LALIGA TV" tvg-logo="https://s9.gifyu.com/images/SFbR3.png" group-title="Nation Sport", LALIGA TV
+#EXTINF:-1 tvg-name="LALIGA TV" tvg-logo="https://s9.gifyu.com/images/SFbR3.png" group-title="ช่องกีฬาต่างประทศ", LALIGA TV
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.270
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/103105
-#EXTINF:-1 tvg-name="LALIGA TV" tvg-logo="https://s9.gifyu.com/images/SFbR3.png" group-title="Nation Sport", LALIGA TV
+#EXTINF:-1 tvg-name="LALIGA TV" tvg-logo="https://s9.gifyu.com/images/SFbR3.png" group-title="ช่องกีฬาต่างประทศ", LALIGA TV
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.270
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/560728
-#EXTINF:-1 tvg-name="LALIGA TV" tvg-logo="https://s9.gifyu.com/images/SFbR3.png" group-title="Nation Sport", LALIGA TV
+#EXTINF:-1 tvg-name="LALIGA TV" tvg-logo="https://s9.gifyu.com/images/SFbR3.png" group-title="ช่องกีฬาต่างประทศ", LALIGA TV
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.270
 http://panel.sulu1.cc:2052/travis1/travis1/3444
-#EXTINF:-1 tvg-name="LALIGA TV" tvg-logo="https://s9.gifyu.com/images/SFbR3.png" group-title="Nation Sport", LALIGA TV
+#EXTINF:-1 tvg-name="LALIGA TV" tvg-logo="https://s9.gifyu.com/images/SFbR3.png" group-title="ช่องกีฬาต่างประทศ", LALIGA TV
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.270
 http://panel.sulu1.cc:2052/travis1/travis1/3523
-#EXTINF:-1 tvg-name="M+ Laliga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="Nation Sport", M+ Laliga
+#EXTINF:-1 tvg-name="M+ Laliga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="ช่องกีฬาต่างประทศ", M+ Laliga
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.281
 https://wahyu1ptv.pages.dev/MLaliga-HD.m3u8
-#EXTINF:-1 tvg-name="M+ Laliga Bar 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="Nation Sport", M+ Laliga Bar 1
+#EXTINF:-1 tvg-name="M+ Laliga Bar 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="ช่องกีฬาต่างประทศ", M+ Laliga Bar 1
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.281
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/339216
-#EXTINF:-1 tvg-name="M+ Laliga Bar 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-2-por-movistar-plus-es.png" group-title="Nation Sport", M+ Laliga Bar 2
+#EXTINF:-1 tvg-name="M+ Laliga Bar 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-2-por-movistar-plus-es.png" group-title="ช่องกีฬาต่างประทศ", M+ Laliga Bar 2
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.282
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/339217
-#EXTINF:-1 tvg-name="M+ Laliga Bar 1 Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="Nation Sport", M+ Laliga Bar 1 Backup
+#EXTINF:-1 tvg-name="M+ Laliga Bar 1 Backup" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="ช่องกีฬาต่างประทศ", M+ Laliga Bar 1 Backup
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.281
 http://norycdn.top:8080/47169803862200/31698038622129/5661
-#EXTINF:-1 tvg-name="M+ Laliga TV 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="Nation Sport", M+ Laliga TV 1
+#EXTINF:-1 tvg-name="M+ Laliga TV 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="ช่องกีฬาต่างประทศ", M+ Laliga TV 1
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.282
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/646454
-#EXTINF:-1 tvg-name="M+ Laliga TV 1 Backup" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="Nation Sport", M+ Laliga TV 1 Backup
+#EXTINF:-1 tvg-name="M+ Laliga TV 1 Backup" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" group-title="ช่องกีฬาต่างประทศ", M+ Laliga TV 1 Backup
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.282
 http://norycdn.top:8080/47169803862200/31698038622129/54535
-#EXTINF:-1 tvg-name="M+ Laliga TV 2" tvg-logo="https://i.imgur.com/0nhDRj2.png" group-title="Nation Sport", M+ Laliga TV 2
+#EXTINF:-1 tvg-name="M+ Laliga TV 2" tvg-logo="https://i.imgur.com/0nhDRj2.png" group-title="ช่องกีฬาต่างประทศ", M+ Laliga TV 2
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.282
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/646456
-#EXTINF:-1 tvg-name="M+ Laliga TV 3" tvg-logo="https://i.imgur.com/9ZIZxUa.png" group-title="Nation Sport", M+ Laliga TV 3
+#EXTINF:-1 tvg-name="M+ Laliga TV 3" tvg-logo="https://i.imgur.com/9ZIZxUa.png" group-title="ช่องกีฬาต่างประทศ", M+ Laliga TV 3
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.282
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/646458
-#EXTINF:-1 tvg-name="M+ DAZN Laliga 1" tvg-logo="https://i.imgur.com/W1UwbAU.png" group-title="Nation Sport", M+ DAZN Laliga 1
+#EXTINF:-1 tvg-name="M+ DAZN Laliga 1" tvg-logo="https://i.imgur.com/W1UwbAU.png" group-title="ช่องกีฬาต่างประทศ", M+ DAZN Laliga 1
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.282
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/646411
-#EXTINF:-1 tvg-name="M+ DAZN Laliga 2" tvg-logo="https://i.imgur.com/1VLE6Te.png" group-title="Nation Sport", M+ DAZN Laliga 2
+#EXTINF:-1 tvg-name="M+ DAZN Laliga 2" tvg-logo="https://i.imgur.com/1VLE6Te.png" group-title="ช่องกีฬาต่างประทศ", M+ DAZN Laliga 2
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.282
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/646412
-#EXTINF:-1 tvg-name="NOW SPORTS 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-1-hk.png?raw=true" group-title="Nation Sport", NOW SPORTS 1
+#EXTINF:-1 tvg-name="NOW SPORTS 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-1-hk.png?raw=true" group-title="ช่องกีฬาต่างประทศ", NOW SPORTS 1
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.297
 http://panel.sulu1.cc:2052/travis1/travis1/18859
-#EXTINF:-1 tvg-name="NOW SPORTS 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-2-hk.png?raw=true" group-title="Nation Sport", NOW SPORTS 2
+#EXTINF:-1 tvg-name="NOW SPORTS 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-2-hk.png?raw=true" group-title="ช่องกีฬาต่างประทศ", NOW SPORTS 2
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.298
 http://panel.sulu1.cc:2052/travis1/travis1/18860
-#EXTINF:-1 tvg-name="NOW SPORTS 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-3-hk.png?raw=true" group-title="Nation Sport", NOW SPORTS 3
+#EXTINF:-1 tvg-name="NOW SPORTS 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-3-hk.png?raw=true" group-title="ช่องกีฬาต่างประทศ", NOW SPORTS 3
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.299
 http://panel.sulu1.cc:2052/travis1/travis1/18861
-#EXTINF:-1 tvg-name="NOW SPORTS 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-4-hk.png?raw=true" group-title="Nation Sport", NOW SPORTS 4
+#EXTINF:-1 tvg-name="NOW SPORTS 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-4-hk.png?raw=true" group-title="ช่องกีฬาต่างประทศ", NOW SPORTS 4
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.297
 http://panel.sulu1.cc:2052/travis1/travis1/18862
-#EXTINF:-1 tvg-name="NOW SPORTS 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-5-hk.png?raw=true" group-title="Nation Sport", NOW SPORTS 5
+#EXTINF:-1 tvg-name="NOW SPORTS 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-5-hk.png?raw=true" group-title="ช่องกีฬาต่างประทศ", NOW SPORTS 5
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.298
 http://panel.sulu1.cc:2052/travis1/travis1/18863
