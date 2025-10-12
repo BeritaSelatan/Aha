@@ -830,7 +830,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78636&extension=t
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78637&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport6.png" group-title="ช่องกีฬาต่างประทศ",Ziggosport6
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78638&extension=ts
-
 #EXTINF:-1 tvg-name="beIN SPORTS Indonesia 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png" group-title="ช่องกีฬาต่างประทศ", beIN SPORTS Indonesia 1
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.162
@@ -925,16 +924,9 @@ http://panel.sulu1.cc:2052/travis1/travis1/18862
 http://panel.sulu1.cc:2052/travis1/travis1/18863
 
 
-
-
-
-
-
-
 ########################################
 ## ช่องฟุตบอลไทยลีด ##
 ########################################
-
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH1.png" group-title="ช่องฟุตบอลไทยลีก",Live 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -998,7 +990,119 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=08afa076d6eeec870c46919a18a6738f&chunkHttps=true&tmid=V0048&tpbk=a4BkOaHCE2Fm9EN9&rrt=1755819578&tmod=rfk&rsid=197e7e75-d0d9-4a2f-a949-03637aef7b02&tuid=y0ngRp8wwo03emcFQkGq3YebuVrdgXRHHWRKX%2FvFZhNZUUi85%2BT09Wa01ddbk1LAK9QTLYxWNqIVgz3ZzybbJRY9TcqKK0xen7ulLJP9984AU%3D&cdn=redfox-https&tdid=31903fcff2fbf0e7430c5503db0itahl&origin=anevia&tfa=f0-fc&tttl=1755905949 
 
-*********อินโด มาเล *********
+
+
+
+
+
+
+
+
+*********ASIA | INDONESIA VIP********
+
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" tvg-logo="https://www.kgtv.tk/api/chan/Tvri.png" ,TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" tvg-logo="https://www.kgtv.tk/api/chan/Trans 7.png" ,TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" tvg-logo="https://www.kgtv.tk/api/chan/Trans Tv.png" ,TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" tvg-logo="https://www.kgtv.tk/api/chan/Cnn Indonesia.png" ,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" tvg-logo="https://www.kgtv.tk/api/chan/Cnbc.png" ,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" ,I-NEWS
+https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" ,NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" ,INDONESIANA TV
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" ,DAAI
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" ,GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" ,MENTARI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" ,MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:0 group-title="ASIA | INDONESIA VIP" tvg-logo="https://www.kgtv.tk/api/chan/Inspira Tv.png" ,INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="ASIA | INDONESIA VIP", TRANS TV
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n63scSD/JAK-TV.jpg" group-title="ASIA | INDONESIA VIP", JAK TV
+https://playlist-coffee.my.id/oxy/jaktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JktG4cJ/DAAI-TV.jpg" group-title="ASIA | INDONESIA VIP", DAAI TV
+https://playlist-coffee.my.id/oxy/daaitv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VYKdrLt/Magna.jpg" group-title="ASIA | INDONESIA VIP", MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ysDkqnx/Picsart-23-06-13-15-48-09-396.jpg" group-title="ASIA | INDONESIA VIP", BANDUNG TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
+https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg" group-title="ASIA | INDONESIA VIP", MOJI
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
+https://playlist-coffee.my.id/oxy/moji.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fpct7N1/NTV.jpg" group-title="ASIA | INDONESIA VIP", NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 group-title="ASIA | INDONESIA VIP" tvg-logo="https://i.ibb.co.com/YPqdz65/citra-drama-logo-tv.jpg", CITRA DRAMA
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88tMzMS/ALL-PLAY.jpg" group-title="ASIA | INDONESIA VIP", ALL PLAY
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/60GZP2d/SERU-CH.jpg" group-title="ASIA | INDONESIA VIP", SERU CHANNEL
+https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vj69HCV/Alquran-Alkarim.jpg" group-title="ASIA | INDONESIA VIP", ALQURAN KHAREEM
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hH9zNW3/MQTV.jpg" group-title="ASIA | INDONESIA VIP", MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+http://iptvid.my.id/hmm/mqtv.m3u8
+http://180.211.90.134:8000/play/a08y
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pWRSNxZ/TV9.jpg" group-title="ASIA | INDONESIA VIP", TV9 NU
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dMcSJZc/RODJA-tv.jpg" group-title="ASIA | INDONESIA VIP", RODJA TV
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://rodjatv.com/rodjatv/live.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
+http://rr2.dens.tv/s/s14/01.m3u8
+http://210.210.155.37/qwr9ew/s/s14/01.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="ASIA | INDONESIA VIP" ,RCTI HD
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg" group-title="ASIA | INDONESIA VIP", MOJI
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
+https://playlist-coffee.my.id/oxy/moji.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI.MACAN" group-title="ASIA | INDONESIA VIP" tvg-logo="https://cdn.macan.tv/img/tvri.png", TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-id="TVRIWorld.MACAN" tvg-name="TVRIWorld.MACAN" group-title="ASIA | INDONESIA VIP" tvg-logo="https://cdn.macan.tv/img/tvriworld.png", TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNNIndonesia.MACAN" group-title="ASIA | INDONESIA VIP" tvg-logo="https://cdn.macan.tv/img/cnn.png", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: MUSIC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/musictv.png" group-title="ASIA | INDONESIA VIP",IDS: MUSIC TV VIP
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34318
@@ -1240,6 +1344,11 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34435
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34436
 #EXTINF:-1 tvg-id="" tvg-name="IDS: Thrill" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Thrill
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34437
+
+
+
+ ******** ASIA | MALAYSIA VIP ********
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 4" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport4.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 4
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34531
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 5" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport5.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 5
@@ -1547,34 +1656,7 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34682
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Vinmeen" tvg-logo="" group-title="ASIA | MALAYSIA VIP",MY: Astro Vinmeen
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34683
 
-###INDIHOME เห็น
 
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Tvri.png" ,TVRI
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Trans 7.png" ,TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Trans Tv.png" ,TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Cnn Indonesia.png" ,CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Cnbc.png" ,CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-#EXTINF:0 group-title="INDIHOME" ,I-NEWS
-https://allcutv.rctiplus.id/inews2023.m3u8
-#EXTINF:0 group-title="INDIHOME" ,NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:0 group-title="INDIHOME" ,INDONESIANA TV
-https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:0 group-title="INDIHOME" ,DAAI
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:0 group-title="INDIHOME" ,GARUDA TV
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:0 group-title="INDIHOME" ,MENTARI TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-#EXTINF:0 group-title="INDIHOME" ,MAGNA CHANNEL
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:0 group-title="INDIHOME" tvg-logo="https://www.kgtv.tk/api/chan/Inspira Tv.png" ,INSPIRA TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
 
@@ -1790,8 +1872,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186397&extension=
 
 ============================================================================================================================================================
 
-##### MalaysiaIptv####
-
 #EXTINF:-1 group-title="MalaysiaIptv" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
@@ -1911,7 +1991,7 @@ https://WahyuIPTV.short.gy/DramaHebat.mpd
 https://WahyuIPTV.short.gy/DramaHotPot.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/FilemMantap.png" group-title="MalaysiaIptv",005. FilemMantap
 https://WahyuIPTV.short.gy/FilmMantap.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroWarna.png" group-title="MalaysiaIptv Go",006. AstroWarna
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroWarna.png" group-title="MalaysiaIptv",006. AstroWarna
 https://wahyu1ptv.pages.dev/AstroWarna-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="MalaysiaIptv",007. AstroCitra
 https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
@@ -1969,85 +2049,6 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 #EXTINF:-1 group-title="MalaysiaIptv" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
 https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
-
-
-
-***INDONESIAIptv***
-
-#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="INDONESIAIptv", TRANS TV
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n63scSD/JAK-TV.jpg" group-title="INDONESIAIptv", JAK TV
-https://playlist-coffee.my.id/oxy/jaktv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JktG4cJ/DAAI-TV.jpg" group-title="INDONESIAIptv", DAAI TV
-https://playlist-coffee.my.id/oxy/daaitv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VYKdrLt/Magna.jpg" group-title="INDONESIAIptv", MAGNA TV
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ysDkqnx/Picsart-23-06-13-15-48-09-396.jpg" group-title="INDONESIAIptv", BANDUNG TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
-https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg" group-title="INDONESIAIptv", MOJI
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
-https://playlist-coffee.my.id/oxy/moji.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fpct7N1/NTV.jpg" group-title="INDONESIAIptv", NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 group-title="INDONESIAIptv" tvg-logo="https://i.ibb.co.com/YPqdz65/citra-drama-logo-tv.jpg", CITRA DRAMA
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88tMzMS/ALL-PLAY.jpg" group-title="INDONESIAIptv", ALL PLAY
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-#https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/60GZP2d/SERU-CH.jpg" group-title="INDONESIAIptv", SERU CHANNEL
-https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vj69HCV/Alquran-Alkarim.jpg" group-title="INDONESIAIptv", ALQURAN KHAREEM
-https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hH9zNW3/MQTV.jpg" group-title="INDONESIAIptv", MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-http://iptvid.my.id/hmm/mqtv.m3u8
-http://180.211.90.134:8000/play/a08y
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pWRSNxZ/TV9.jpg" group-title="INDONESIAIptv", TV9 NU
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dMcSJZc/RODJA-tv.jpg" group-title="INDONESIAIptv", RODJA TV
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://rodjatv.com/rodjatv/live.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
-http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
-http://rr2.dens.tv/s/s14/01.m3u8
-http://210.210.155.37/qwr9ew/s/s14/01.m3u8
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="INDONESIAIptv" ,RCTI HD
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg" group-title="INDONESIAIptv", MOJI
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
-https://playlist-coffee.my.id/oxy/moji.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI.MACAN" group-title="INDONESIAIptv" tvg-logo="https://cdn.macan.tv/img/tvri.png", TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:-1 tvg-id="TVRIWorld.MACAN" tvg-name="TVRIWorld.MACAN" group-title="INDONESIAIptv" tvg-logo="https://cdn.macan.tv/img/tvriworld.png", TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-
-#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNNIndonesia.MACAN" group-title="INDONESIAIptv" tvg-logo="https://cdn.macan.tv/img/cnn.png", CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
 
 ##VISION+##
