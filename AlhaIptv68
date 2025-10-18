@@ -1355,6 +1355,9 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34437
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:0 group-title="ASIA | MALAYSIA VIP" tvg-logo="https://www.kgtv.tk/api/chan/Tv2.png" ,TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:0 group-title="ASIA | MALAYSIA VIP" ,TV3
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34537
+
 #EXTINF:0 group-title="ASIA | MALAYSIA VIP" tvg-logo="https://www.kgtv.tk/api/chan/Tv 6.png" ,TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:0 group-title="ASIA | MALAYSIA VIP" tvg-logo="https://www.kgtv.tk/api/chan/Tv Okey.png" ,TV OKEY
@@ -1562,6 +1565,7 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34618
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34536
 #EXTINF:-1 tvg-id="" tvg-name="MY: TV 3" tvg-logo="https://docdog.top/logo/countries/malaysia/tv.png" group-title="ASIA | MALAYSIA VIP",MY: TV 3
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34537
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: 8 TV" tvg-logo="https://docdog.top/logo/countries/malaysia/tv.png" group-title="ASIA | MALAYSIA VIP",MY: 8 TV
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34619
 #EXTINF:-1 tvg-id="" tvg-name="MY: TV 9" tvg-logo="https://docdog.top/logo/countries/malaysia/tv.png" group-title="ASIA | MALAYSIA VIP",MY: TV 9
