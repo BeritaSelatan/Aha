@@ -1538,17 +1538,6 @@ http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1706.m3u8
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" group-title="ASIA | MALAYSIA VIP",MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png?20240901000644",ASTRO Warna
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1706.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 4" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport4.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 4
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34531
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 5" tvg-logo="https://docdog.top/logo/countries/malaysia/astrosupersport5.png" group-title="ASIA | MALAYSIA VIP",MY: ASTRO SUPERSPORT 5
@@ -1944,7 +1933,9 @@ http://49.0.64.96:8007/IZAA
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
 http://49.0.64.96:8007/PING
 
+
 ##### การณตูน. ######
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="ช่องการ์ตูน",CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
@@ -1975,6 +1966,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186489&extension=
 
 
 #### สารคดี ######
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="ช่องสารคดี",Discovery
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186437&extension=ts
@@ -2041,6 +2033,28 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186381&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186634&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="ช่องสารคดี", Thainess
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
+#EXTINF:-1 tvg-id="0" tvg-name="ES: CANAL DECASA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ช่องสารคดี",ES: CANAL DECASA
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/705
+#EXTINF:-1 tvg-id="0" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ช่องสารคดี",ES: CAZA Y PESCA
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/706
+#EXTINF:-1 tvg-id="Crimen & Investigación" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ช่องสารคดี",ES: AMC CRIME
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/707
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="ช่องสารคดี",ES: DISCOVERY
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/708
+#EXTINF:-1 tvg-id="Dmax.es" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ช่องสารคดี",ES: DMAX
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/709
+#EXTINF:-1 tvg-id="0" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ช่องสารคดี",ES: ODISEA
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/710
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ช่องสารคดี",ES: NATIONAL GEOGRAPHIC
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/711
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ช่องสารคดี",ES: NAT GEO WILD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/712
+#EXTINF:-1 tvg-id="0" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ช่องสารคดี",ES: HISTORIA
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/713
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ช่องสารคดี",ES: IBERALIA TV
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/714
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png" group-title="ช่องสารคดี", AMAZING
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/AMAZING
