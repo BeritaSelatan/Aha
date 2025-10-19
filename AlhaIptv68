@@ -359,7 +359,7 @@ https://la4.youllneverwalkalone.online:9310/v5/fJ4aHyqw30EWzxpSkNogNQ/1760853216
 #EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAXBackup", MONOMAX 3 TH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://la4.youllneverwalkalone.online:9310/v5/Ty7obekTbPqcy8Ewm0-Xhg/1760853307/7e082863bad9b2193b817f67ef13b2ed/zfM5y0Qxik2aTonwccuUwg/1760863987/live/lx-origin/th-monomax03_720/chunks.m3u8
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 3 Backup
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAXBackup", MONOMAX 3 Backup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://la4.youllneverwalkalone.online:9310/v5/DzJD0A9P_tlwl0ciaCHhew/1760853325/8eb89ccc652e82f9148013cf26a96356/46JZuyto9YfNn5rV7HmSaA/1760864005/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
 #EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 EN" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAXBackup", MONOMAX 3 EN
@@ -411,18 +411,6 @@ https://la4.youllneverwalkalone.online:9310/v5/sb1TrJoFBH9HNFDnrYghhQ/1760853957
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://la4.youllneverwalkalone.online:9310/v5/dJNPfM1Q6pD-imlxakaDRA/1760853977/7e082863bad9b2193b817f67ef13b2ed/K16FxY0RN7XVRBuGbW0KSA/176086465ttp-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="MONOMAX สำรอง",PlaysportsFootball3
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="MONOMAX สำรอง",PlaysportsFootball4
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.pic.in.th/pic/1000032994.jpg" group-title="MONOMAX สำรอง",PlaysportsFootball5
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/
 
 
 
