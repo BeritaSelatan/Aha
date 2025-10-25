@@ -65,17 +65,15 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=
 #EXTINF:-1 tvg-id="CH8.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8Digital TV🇹🇭 
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
-#EXTINF:-1 tvg-id="JKN18.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://shorturl.asia/WmwnB", JKN 18 
-https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-
 #EXTINF:-1 tvg-id="News1.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png", News 1
 https://server1.streamssl.com/stream/news1.m3u8
 
 #EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/500px-Nation_TV_Logo.svg.png",Nation TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="🇹🇭Digital TV🇹🇭"",JKN18
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
 #EXTINF:-1 group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ALTV.png",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
