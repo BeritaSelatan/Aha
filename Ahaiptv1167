@@ -8,195 +8,85 @@
 #EXTINF:-1 group-title=""แจกฟรี สามารถโดเนท ได้" tvg-logo="https://www.facebook.com/photo/?fbid=122104732922886132&set=a.122099901452886132",สนับสนุน พร้อมเพย 0892938296
 https://raw.githubusercontent.com/BeritaSelatan/Th/refs/heads/main/%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B9%84%E0%B8%A1
 
-######malay indo########
-
-
 
 ########################################
 ###ทีวีดิจิตอลไทย###
 ########################################
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
-https://server1.streamssl.com/stream/news1_mid.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBT2HD_2025.png",NBT HD
-#https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png",THAI PBS HD
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ALTV.png",ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",CH5 HD
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png",VIPA
-https://bcovlive-a.akamaihd.net/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",TSPORTS 7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8 THAILAND
-https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTCentral_2025.png",NBT ภาคกลาง
-#https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8
-https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTNorth_2025.png",NBT ภาคเหนือ
-#http://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1/playlist.m3u8
-https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTNortheast_2025.png",NBT ภาคอีสาน
-#http://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d/playlist.m3u8
-https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBTSouth_2025.png",NBT ภาคใต้
-#http://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048/playlist.m3u8
-https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://13livetv.com/asset/logo-512.png",13สยามไท
-https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TPTV_2025.png",TPTV
-https://tv-live.tpchannel.org/live/tv.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://www.rama.mahidol.ac.th/eye/sites/default/files/public/logo-rama-link.png",Rama Channel
-https://ramach.ddns.net/live/ramalive/index.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TNN16.png",TNN16
-https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TopNews.png",Top News
-https://live.topnews.co.th/hls/mobile_v1.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/18.png",JKN 18
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186421&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="ช่องทีวีดิจิตอล",CH5 HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186423&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล",MCOTHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186530&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล",ThaiPBSHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186620&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล",TNN16
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล",JKN18
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/dopa.png",Dopa Channel
-http://dopachannel.truegse.com/live/dopatv03.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://i.postimg.cc/RCHf48T7/IMG-2558.png", ลูกทุ่งทีวี
-https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/zeenung.png", Zee Nung
-https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/500px-Nation_TV_Logo.svg.png",Nation TV
-#https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
-#EXTVLCOPT:http-referrer=https://www.nationtv.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/workpoint.png",Workpoint
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ช่องทีวีดิจิตอล",NationTV
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186622&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล",AmarinTVHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186379&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล",True4U
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563013&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล",GMM25
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186494&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล",CH8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="ช่องทีวีดิจิตอล",MONO29
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186531&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องทีวีดิจิตอล", MonoPlusHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186380&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="ช่องทีวีดิจิตอล",Mono29Music
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563008&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล",WorkpointTV
 https://global-media.sooplive.com/live/workpoint/master.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",TRUE4U
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png",GMM
-#https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/suwannabhumi.png",Suwannabhumi Channel
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png",CH8
-https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png",Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",Mono 29
-https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png",MCOT HD
-https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",ONE31 HD
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",Thairath TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/CH33HD.png",CH3 HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png",AmarinTV HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png",CH7 HD
-https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png",Cable Channel 37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png",Chiangrai Channel
-http://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Siamnews.png",Siamnews
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Thainews.png",Thainews
-https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TVMass.png",มวลชนทีวี
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/baanbaantv.png", บ้านบ้านทีวี
-https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล",TopNewsHD
+http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล",News1
+http://server1.streamssl.com/stream/news1_mid.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="ช่องทีวีดิจิตอล",VIPA
+http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล",T-SPorts7
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล",TPTV
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186410&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png" group-title="ช่องทีวีดิจิตอล",PoliceTV
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186557&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="ช่องทีวีดิจิตอล",13สยามไท
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png" group-title="ช่องทีวีดิจิตอล", สุวรรณภูมิทีวี
+http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNlHC8AT7sZOLzCqWT3c-_UzBMH_iQt_7n6qpI5UmkKTfC113-iVTej3Hr2BI1PAPi6A&usqp=CAU"group-title="ช่องทีวีดิจิตอล",NBT ภาคกลาง
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id=""tvg-logo="https://nbtkhonkaen.prd.go.th/th/file/get/type/thumbnail/file/202502058fa150a9a1e6f99ae474605fe43d742b141732.png"group-title="ช่องทีวีดิจิตอล",NBT ภาคอีสาน
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Jx8WNuSwNQXeMrzQvItTToEgW0w42k4SHA&s"group-title="ช่องทีวีดิจิตอล",NBT ภาคเหนือ
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://yt3.googleusercontent.com/-d8t7MX6bpAbCH3VAvsVpkqZvKfN2d5XR9fFyGosPW-cJ5bBJ4EkxgyFmEIV_TO_TXli2XeGTA=s900-c-k-c0x00ffffff-no-rj"group-title="ช่องทีวีดิจิตอล",NBT ภาคใต้
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
 
 
 ########################################
 ###MONOMAX###
 ########################################
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax01eng_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax02eng_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax03eng_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 4
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 4
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax04eng_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax05eng_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 6
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 6
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax06eng_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 7
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/CmB42tc9hh9F_o5TL6QZGw/1756734500/14d0e0f06583a1b5f2f577f235adfc56/9g2fqmcy_lqqbwNo-2eRBQ/1756745180/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX TV",MONOMAX 7
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e105.hellotherepadawan.org/v5/pOnVqMwJuy7WjbPRbi_fmA/1756734612/01761b34fb1c3640fa8529682d201505/zPkJfgmtPRWUOmEmjJ79KQ/1756745292/live/lx-origin/th-monomax07eng_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMaX",MONOMAX 1
