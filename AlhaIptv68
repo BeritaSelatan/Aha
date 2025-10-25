@@ -38,37 +38,29 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 #EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนัง Soundtrack บรรยายไทย)
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Amarin34HD.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png", Amarin TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="🇹🇭Digital TV🇹🇭",ThairathTVHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186622&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="🇹🇭Digital TV🇹🇭",AmarinTVHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186379&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="🇹🇭Digital TV🇹🇭",PPTVHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="🇹🇭Digital TV🇹🇭",ONE31
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=ts
 
-#EXTINF:-1 tvg-id="ThairathTV32.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png", Thairath TV HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭Digital TV🇹🇭",True4U
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563013&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="🇹🇭Digital TV🇹🇭",GMM25
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186494&extension=ts
 
 #EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PPTVHD36.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png", PPTV HD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
-##https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
-
-
-#EXTINF:-1 tvg-id="One31.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png", ONE31
-https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
-
-#EXTINF:-1 tvg-id="GMM25.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png", GMM25
-https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
-
 #EXTINF:-1 tvg-id="Workpoint23.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png", Workpoint TV
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 
-#EXTINF:-1 tvg-id="NationTV.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png", Nation TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
-
-#EXTINF:-1 tvg-id="TNN.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png", TNN 16
-https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
-
-#EXTINF:-1 tvg-id="True4U.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png", True 4U
-https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="🇹🇭Digital TV🇹🇭",TNN16
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=ts
 
 #EXTINF:-1 tvg-id="CH8.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8Digital TV🇹🇭 
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
