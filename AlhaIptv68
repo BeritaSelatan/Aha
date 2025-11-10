@@ -507,13 +507,6 @@ https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 
  url="https://shorturl.asia/0JMcT
  
- 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/C5vYBTHJ/IMG-1868.png" group-title="🇹🇭 THAILAND",13 Siam Thai
 https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/FRpsQhRP/IMG-2711.png" group-title="🇹🇭 THAILAND",TTD1
@@ -884,69 +877,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="test1.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 1
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=m3u8
-#EXTINF:-1 tvg-id="test1.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 1 สำรอง
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191790&extension=m3u8&play_token=
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 2
-https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/max2.m3u8
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 2 สำรอง
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax12.m3u8
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts&play_token=wQ2GQMVycd
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 4
-http://otv.to:8080/ayaaz/ayaz11/354583
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 5
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130714.m3u8
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 7
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130706.m3u8
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 8
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130702.m3u8
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 9
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130698.m3u8
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Monomax $ Sports",Monomax 10
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/130730.m3u8
-#EXTINF:-1 tvg-id="Sky.uk" tvg-logo="https://i.postimg.cc/y84fsGW0/IMG-3231.png" group-title="Monomax $ Sports",Sky Sports Premier League
-http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=1290293&extension=ts&play_token=uxCv2duDR0
-#EXTINF:-1 tvg-id="Sports.nz" tvg-logo="https://i.postimg.cc/QN6y2GYJ/IMG-3043.png" group-title="Monomax $ Sports",Sky Sport EPL
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/102396.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jqH4QJ99/IMG-3080.png" group-title="Monomax $ Sports",Sky Sports Main Event
-http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=1290294&extension=ts&play_token=ezGu0AlqzQ
-#EXTINF:-1 tvg-id="Astro.uk" tvg-logo="https://i.postimg.cc/vmRMV7MJ/IMG-3976.png" group-title="Monomax $ Sports",Astro Premier League
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=828098&extension=ts&play_token=Z4y6bmBQr2
-#EXTINF:-1 tvg-id="Astro.uk" tvg-logo="https://i.postimg.cc/bN34Pxsx/IMG-3980.png" group-title="Monomax $ Sports",Astro Premier League 2
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=854447&extension=ts&play_token=tMWG2be2ST
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LNt84JR/IMG-3789.png" group-title="Monomax $ Sports",SuperSport Premier League
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=138586&extension=m3u8
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="Monomax $ Sports",Now Sports 1 4k
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/118746
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LKcmbVL/IMG-4153.png" group-title="Monomax $ Sports",Now Sports Premier 1
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/wMj6cfct/IMG-3777.png" group-title="Monomax $ Sports",Hub Premier 1
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/fW8WTsDY/IMG-3778.png" group-title="Monomax $ Sports",Hub Premier 2
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/NfVgmxyM/IMG-3779.png" group-title="Monomax $ Sports",Hub Premier 3
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/NGZ0djCv/IMG-4155.png" group-title="Monomax $ Sports",Hub Premier 4
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/L43yTJ8f/IMG-4157.png" group-title="Monomax $ Sports",Hub Premier 5
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/kGSRT6xN/IMG-4160.png" group-title="Monomax $ Sports",V Sport Premier League
-http://sonymax.org:8080/krounbarnasfhj/U7Y1U48QCG/434512
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/1/1b/Premier_League_logo.png" group-title="🇹🇭 THAILAND",PREMIER LEAGUE TV
-http://sonymax.org:8080/krounbarnasfhj/U7Y1U48QCG/505778
-#EXTINF:-1 tvg-id="USAnetwork.us" tvg-logo="https://i.postimg.cc/Wpqrjwwy/IMG-4330.png" group-title="Monomax $ Sports",TNT Sports 1 (Event)
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=577967&extension=ts&play_token=Nb0o2QV8Hk
-#EXTINF:-1 tvg-id="USAnetwork.us" tvg-logo="https://i.postimg.cc/C56jydtb/IMG-2943.png" group-title="Monomax $ Sports",USA (Event)
-https://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="Monomax $ Sports",MUTV
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=754447&extension=ts&play_token=Q53duS4c9r
-#EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="Monomax $ Sports",L.F.C.
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/17081.m3u8
-#EXTINF:-1 tvg-id="Chelsea.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/768px-Chelsea_FC.svg.png" group-title="🇹🇭 THAILAND",CHELSEA TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:0D:A1:24&stream=45327&extension=m3u8
 #EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/nrMggm2Y/IMG-4193.png" group-title="Monomax $ Sports",True Sports 1
 http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191753&extension=m3u8
 #EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/zXk5hCMV/IMG-4195.png" group-title="Monomax $ Sports",True Sports 2
