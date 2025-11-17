@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/BeritaSelatan/Th/refs/heads/main/%E0%B8%9E%E0%
 url="https://shorturl.asia/0JMcT"
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png" group-title="🇹🇭 THAILAND",CH7 HD
