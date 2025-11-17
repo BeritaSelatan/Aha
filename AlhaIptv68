@@ -10,10 +10,7 @@
 https://postimg.cc/ThnPgkCP
 
 #EXTINF:-1 tvg-id="Channel 3HD.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live/live-tv/ch3hd
-https://dklxais.online/dookeela/ch3hd/chunks.m3u8?nimblesessionid=82282998&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSwgNDozODozNyBBTSZoYXNoX3ZhbHVlPTFHS2FJRUtyM3I1aDJ1VXNEOFo3Rmc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD00ZjUzOTljNjU0MjkyNDRlODczOGJmYWQ4Yzg1Y2E4NyZjaGVja2lwPXRydWUmc3RybV9sZW49MTQ=
-
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
 #EXTINF:-1 tvg-id="Channel 3HD.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
 https://www.livedoomovies.com/02_3HD_720p/3HDChunklist.m3u8
