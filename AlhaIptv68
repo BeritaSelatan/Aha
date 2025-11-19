@@ -9,13 +9,12 @@
 #EXTINF:-1 tvg-id=""โดนเนท" group-title="🇹🇭 สนับสนุน 🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Photoroom-20250528_225519.png",wร้0มเwย 0864906995
 https://postimg.cc/ThnPgkCP
 
-#EXTINF:-1 tvg-id="Channel 3HD.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD สำรอง
+#EXTINF:-1 tvg-id="Channel 3HD.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD 
 http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9375.m3u8
 YURlQ3YvU2tXNXYxQzRqUU1nPT0mdmFsaWRtaW51dGVzPTEmaWQ9NGY1Mzk5YzY1NDI5MjQ0ZTg3MzhiZmFkOGM4NWNhODcmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE0
 
-#EXTINF:-1 tvg-id="Channel 3HD.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
+#EXTINF:-1 tvg-id="Channel 3HD.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD สำรอง
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776006&extension=m3u8&play_token=zu4S61dBsH
-
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🇹🇭Digital TV🇹🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
