@@ -17,7 +17,7 @@ https://postimg.cc/ThnPgkCP
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CH3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="DigitalTV",CH3
-http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9375.m3u8
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776006&extension=m3u8&play_token=zu4S61dBsH
 
 #EXTINF:-1 tvg-name="TV5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="DigitalTV",TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
